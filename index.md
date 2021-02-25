@@ -30,15 +30,15 @@ May 20 | Nina Therkildsen | Temporal genomics
 Jun 3 | Jennifer Walsh-Elmond | Temporal genomics
 Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 
-## Twiter Conference
+## Twitter Conference
+
 
 ## Group Members
 
 **Eric Garcia**
-@ericgarciaresearch [Personal Website](https://ericgarciaphd.wordpress.com/)
 
+Personal [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
-
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
 
 ![elBucky](https://user-images.githubusercontent.com/40210956/109210312-a7cede80-777a-11eb-8bf1-c0d82bc67779.png)
