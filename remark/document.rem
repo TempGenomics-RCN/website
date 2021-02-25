@@ -1,0 +1,14 @@
+;; TODO: we ought not to use ref so often, as it's brittle to changes in format
+(h1 (remark (ref document 'title)))
+
+(p (remark (ref (brief document) 'summary)))
+
+(remark (include-markdown (string "../document/" (ref document 'id))))
+
+(h2 "Tags")
+
+(ul
+  ;; TODO: this is a little brittle
+  ;; make sure to update once documents get a non-JSON data structure
+  (#:each tag (ref document 'tags)
+    `((li ,(tag-link tag)))))

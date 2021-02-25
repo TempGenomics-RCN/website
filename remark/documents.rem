@@ -1,0 +1,11 @@
+(remark (include-markdown "../pages/documents.md"))
+
+(h2 "Summarized Talks")
+
+(#:each t (reverse (filter hassummary talks))
+ (render-talk-brief t))
+
+(h2 "Documents")
+
+(#:each d documents
+  (render-document-brief (brief d)))

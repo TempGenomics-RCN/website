@@ -1,0 +1,11 @@
+A game is a “mathematical model between interacting decision makers” where each
+player must make choices based on a set of rules. Every individual in a game
+must also have a preferred reaction to any combination of actions taken by
+other agents.  Game theory is about the study and application of these models.
+It involves various solution concepts and methods that can be employed to
+predict the outcomes of strategic engagements.  This talk will introduce the
+major ideas in the field. There will be a focus on basic definitions, types of
+games, and how we can “solve games” using the Nash equilibrium. Hopefully we’ll
+get to “play” some ourselves. Towards the end, we can also review some neat
+unsolved problems in game theory that are very easy to understand, but prove
+really difficult to solve. 

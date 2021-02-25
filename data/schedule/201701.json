@@ -1,0 +1,243 @@
+[
+    {
+        "location": "MC 4045",
+        "time": "2017-01-20T17:30:00",
+        "title": "Game Theory (Part 2): Extensive Form Finite and Infinite Games",
+        "tags": [
+            "combinatorial game theory",
+            "economics",
+            "game theory"
+        ],
+        "identifier": "kt-EFG",
+        "speaker": "Koosha Totonchi"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-01-20T18:30:00",
+        "title": "Diophantine Approximation and the Discovery of Transcendental Numbers",
+        "tags": [
+            "algebraic number",
+            "diophantine approximation",
+            "number theory"
+        ],
+        "identifier": "am-RT",
+        "speaker": "Anton Mosunov"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-01-27T17:30:00",
+        "title": "Integrability of Riccati Equations",
+        "tags": [
+            "analysis",
+            "differential equation",
+            "integration"
+        ],
+        "identifier": "lc-Riccati",
+        "speaker": "Letian Chen"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-01-27T18:30:00",
+        "title": "Tensor Products",
+        "tags": [
+            "algebra",
+            "linear algebra",
+            "tensor theory"
+        ],
+        "identifier": "fb-Tensor",
+        "speaker": "Felix Bauckholt"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-03T17:30:00",
+        "title": "$q$-analogs",
+        "tags": [
+            "combinatorics",
+            "enumeration"
+        ],
+        "identifier": "fw-q",
+        "speaker": "Fengyang Wang"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-03T18:30:00",
+        "title": "$p$-adic Numbers",
+        "tags": [
+            "analysis",
+            "number theory",
+            "p-adic number"
+        ],
+        "identifier": "at-padic",
+        "speaker": "Akshay Tiwary"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-10T18:30:00",
+        "title": "Quantum Computing",
+        "tags": [
+            "computer science",
+            "quantum algorithm"
+        ],
+        "identifier": "mp-QC",
+        "speaker": "Michael Pang"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-10T17:30:00",
+        "title": "Ordinals",
+        "tags": [
+            "ordinal number",
+            "set theory"
+        ],
+        "identifier": "eo-Ordinals",
+        "speaker": "Eddie Onochie"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-17T17:30:00",
+        "title": "Bitcoin and the Blockchain",
+        "tags": [
+            "blockchain",
+            "computer science",
+            "cryptography",
+            "distributed system",
+            "Tech Talks"
+        ],
+        "identifier": "bz-Bitcoin",
+        "speaker": "Ben Zhang"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-02-17T18:30:00",
+        "title": "General Secure Multi-Party Computation from any Linear Secret-Sharing Scheme",
+        "tags": [
+            "secret sharing scheme",
+            "computer science",
+            "cryptography",
+            "security"
+        ],
+        "identifier": "zz-SSS",
+        "speaker": "Zihao Zhu"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-03T17:30:00",
+        "title": "Total Functional Programming",
+        "tags": [
+            "computer science",
+            "functional programming",
+            "Tech Talks"
+        ],
+        "identifier": "ah-TFP",
+        "speaker": "Adam Hofmann"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-03T18:30:00",
+        "title": "Bloom Filters and Other Probabilistic Data Structures",
+        "tags": [
+            "algorithm",
+            "bloom filter",
+            "computer science",
+            "data structure",
+            "space efficiency",
+            "probability"
+        ],
+        "identifier": "lm-BF",
+        "speaker": "Luthfi Mawarid"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-17T17:30:00",
+        "title": "Inverse Galois Theory",
+        "tags": [
+            "algebra",
+            "field theory",
+            "Galois theory",
+            "group theory",
+            "open problem"
+        ],
+        "identifier": "dl-IGT",
+        "speaker": "David Liu"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-17T18:30:00",
+        "title": "Universal Property of Quotients",
+        "tags": [
+            "algebra",
+            "category theory"
+        ],
+        "identifier": "ly-UPQ",
+        "speaker": "Lirong Yang"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-24T17:30:00",
+        "title": "Brachistochrone",
+        "tags": [
+            "brachistochrone",
+            "applied mathematics",
+            "calculus of variations",
+            "physics"
+        ],
+        "identifier": "mj-BCV",
+        "speaker": "Manas Joshi"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-24T18:30:00",
+        "title": "Lie Groups and Special Relativity",
+        "tags": [
+            "algebra",
+            "linear algebra",
+            "group theory",
+            "Lie theory",
+            "physics",
+            "mechanics",
+            "special relativity"
+        ],
+        "identifier": "me-RTPP",
+        "speaker": "Mohamed El Mandouh"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-31T17:30:00",
+        "title": "Metric embeddings and dimensionality reduction",
+        "tags": [
+            "algebra",
+            "algorithm",
+            "computer science",
+            "data science",
+            "linear algebra",
+            "probability"
+        ],
+        "identifier": "fr-MEDR",
+        "speaker": "Frieda Rong"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-31T18:10:00",
+        "title": "Group Theoretic Attacks on the Enigma Cipher",
+        "tags": [
+            "algebra",
+            "cryptography",
+            "group theory"
+        ],
+        "identifier": "lb-Enigma",
+        "speaker": "Laindon Burnett"
+    },
+    {
+        "location": "MC 4045",
+        "time": "2017-03-31T18:50:00",
+        "title": "Cantor Set and Dynamical Systems",
+        "tags": [
+            "analysis",
+            "applied mathematics",
+            "dynamical system",
+            "physics"
+        ],
+        "identifier": "jb-Cantor",
+        "speaker": "James Bai"
+    }
+]

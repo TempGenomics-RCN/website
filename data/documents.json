@@ -1,0 +1,101 @@
+[
+    {
+        "id": "2d-linear-algebra",
+        "title": "Two-Dimensional Linear Algebra",
+        "authors": [
+            "Fengyang Wang"
+        ],
+        "subsetof": [
+            "MATH 136",
+            "MATH 146"
+        ],
+        "tags": [
+            "algebra",
+            "linear algebra"
+        ],
+        "type": "reference"
+    },
+    {
+        "id": "quadratic-reciprocity",
+        "title": "Quadratic Reciprocity",
+        "authors": [
+            "Fengyang Wang"
+        ],
+        "subsetof": [
+            "PMATH 340",
+            "PMATH 440"
+        ],
+        "tags": [
+            "number theory",
+            "prime number",
+            "reciprocity"
+        ],
+        "type": "reference"
+    },
+    {
+        "id": "lie-theory",
+        "title": "Lie Theory",
+        "authors": [
+            "Aidan Patterson"
+        ],
+        "subsetof": [
+            "PMATH 763"
+        ],
+        "tags": [
+            "algebra",
+            "group theory",
+            "Lie theory",
+            "linear algebra"
+        ],
+        "type": "reference"
+    },
+    {
+        "id": "ordinary-generating-functions",
+        "title": "Ordinary Generating Functions",
+        "authors": [
+            "Fengyang Wang"
+        ],
+        "subsetof": [
+            "MATH 239",
+            "MATH 249",
+            "CO 330"
+        ],
+        "tags": [
+            "combinatorics",
+            "enumeration"
+        ],
+        "type": "reference"
+    },
+    {
+        "id": "monoids-and-groups",
+        "title": "Monoids and Groups",
+        "authors": [
+            "Fengyang Wang"
+        ],
+        "subsetof": [
+            "PMATH 347"
+        ],
+        "tags": [
+            "algebra",
+            "group theory"
+        ],
+        "type": "reference"
+    },
+    {
+        "id": "galois-theory",
+        "title": "Galois Theory",
+        "authors": [
+            "Akshay Tiwary",
+            "Fengyang Wang"
+        ],
+        "subsetof": [
+            "PMATH 348"
+        ],
+        "tags": [
+            "algebra",
+            "field theory",
+            "Galois theory"
+        ],
+        "type": "reference"
+    }
+]

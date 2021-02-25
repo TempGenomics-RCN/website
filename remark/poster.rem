@@ -1,0 +1,37 @@
+(remarks
+  (if (isempty talks)
+    `((p "There are currently no scheduled talks."))
+    `((h1 "Marketing Poster")
+      (p (label ([for "color-pick"])
+                "Color: " (input ([type "text"]
+                                  [value "#FFF"]
+                                  [id "color-pick"]))))
+      (div ([class "minipage"])
+           (img ([width 600]
+                 [height 228]
+                 [src "/seminar-transparent.png"]
+                 [class "banner"]))
+           (p ([class "location-time"]
+               [contenteditable "true"])
+              (remark (human (datetime (ref talks 1))))
+              " in " (remark (location (ref talks 1))))
+           (div ([class "talks"])
+                (#:each t talks
+                 `((h2 ([contenteditable "true"]) ,(title t))
+                   (time ([contenteditable "true"])
+                         ,(time-part (datetime t)))
+                   (p ([contenteditable "true"])
+                      "by " ,(ItemList (authors t)))
+                   (div ([class "talk-abstract"]
+                         [contenteditable "true"])
+                        ,((.rendermd StdLib)
+                          (join (take (sentences
+                                        (if (hasabstract t)
+                                          (readstring
+                                            (abstractpath t))
+                                          "No abstract available."))
+                                      3) " "))))))
+           (p ([class "website-link"])
+              "For more details, go to https://uwseminars.com")))
+
+    (script ([src "/scripts/poster.js"]))))

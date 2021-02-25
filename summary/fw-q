@@ -1,0 +1,211 @@
+## Partitions of an Integer
+
+Let ``n\in\mathbf{N}\cup\{0\}``. Define a **partition** of ``n`` to be a
+multiset
+
+```math
+p = \{a_1 \dots a_k\}
+```
+
+with
+
+```math
+\sum_{i=1}^k a_i = n
+```
+
+and each ``a_i\in\mathbf{Z}^+``. We say that the partition ``p`` has ``k``
+parts, the numbers ``a_i`` are the parts, and ``|p|`` (the size of ``p``) is
+``n``.
+
+As a notational convenience, define
+
+```math
+\operatorname{length}(p) = k
+```
+
+to be the number of parts, and
+
+```math
+\operatorname{maximum}(p) = \max \{a_i : i \in [1, k]\}
+```
+
+to be the largest part.
+
+Let ``n = 3``. Then the partitions of ``n`` are ``(3)``, ``(2, 1)``, and ``(1,
+1, 1)``. If we take a partition and arrange it so that the largest part comes
+first, then we can represent it graphically.
+
+For example, ``(7, 5, 3, 1, 1)`` is a partition of ``17``. Graphically, we can
+draw a diagram of this, by making each part its own row:
+
+![Ferrers diagram for 75311](/images/ferrers75311.png)
+
+This diagram is called the **Ferrers diagram**. If we transpose it, by
+interchanging rows and columns, we obtain
+
+![Ferrers diagram for 5332211](/images/ferrers5332211.png)
+
+which is the Ferrers diagram of another partition of ``17``: ``(5, 3, 3, 2, 2,
+1, 1)``. These two partitions of ``17`` are called **conjugates**.
+
+## Permutations
+
+Denote by ``S_n`` the set of bijections
+
+```math
+σ: \{1\dots n\}\to\{1\dots n\}
+```
+
+We can think of permutations in several, equivalent ways. A useful way to think
+of a permutation is a rearrangement of the numbers ``1`` to ``n``. We can write
+a rearrangement out as a list. For example,
+
+```math
+σ = \begin{pmatrix}
+ 1 & 2 & 3 & 4 & 5 \\
+ 3 & 5 & 1 & 2 & 4
+\end{pmatrix} \in S_5
+```
+
+is a permuatation with ``σ(1) = 3``, ``σ(2) = 5``, ``σ(3) = 1``,
+``σ(4) = 2``, and ``σ(5) = 4``.
+
+A permutation may also be thought of as defining a new ordering on the items.
+For instance, we may think of the permutation ``σ`` above as defining a
+new ordering ``\prec`` with ``3 \prec 5 \prec 1 \prec 2 \prec 4``. We may
+sometimes be interested in how different the order ``\prec`` is compared to the
+standard order ``<``. We can measure this degree of difference by looking at
+how many pairs of numbers are out of order.
+
+More formally, define an **inversion** of permutation ``σ`` to be an
+unordered pair ``\{i < j\}`` such that ``σ(i) > σ(j)``. The
+inversions are precisely the pairs of indices where ``i < j`` but ``j \prec i``
+according to the order induced by ``σ``.
+
+For instance, the inversions in the permutation above are ``\{1, 3\}, \{1, 4\},
+\{2, 3\}, \{2, 4\}, \{2, 5\}``. The total number of inversions of permutation
+``σ`` is ``5``, so we may write ``\operatorname{inv}(σ) = 5``. In
+general, we define ``\operatorname{inv}(σ)`` to be the number of
+inversions of permutation ``σ``.
+
+As an exercise, show that
+
+```math
+\max \{ \operatorname{inv}(σ) : σ \in S_n \} = \binom{n}{2}
+```
+
+## Generating Functions
+
+(During the talk, a brief overview of [generating
+functions](/document/ordinary-generating-functions) was given. This content is
+subsumed by the linked summary.)
+
+## Counting Inversions
+
+Fix ``n``. We shift our focus to ``S_n``, and we want to consider the weight
+function ``\operatorname{inv}: S_n \to \mathbf{N}\cup\{0\}``.
+
+Write
+
+```math
+F_n(q) = \sum_{σ\in S_n} q^{\operatorname{inv}(σ)}
+```
+
+so that ``F_n(q)`` is the ordinary generating function for ``S_n`` with weight
+function ``\operatorname{inv}``. Note that this generating function is actually
+a polynomial, because ``S_n`` is a finite set.
+
+To accomplish this task, we will first consider a recursive decomposition of
+permutations. Let ``σ ∈ S_n``. We split ``σ`` up into two pieces of
+information, which together are enough to recover ``σ``:
+
+- ``σ(1)``; i.e., where ``1`` gets sent to by ``σ``. Note that ``σ(1) ∈ \{1,
+  \dots, n\}``.
+- ``σ' ∈ S_{n-1}``, a permutation that describes where ``2`` to ``n`` are sent
+  by ``σ``.
+
+A sensible definition of ``σ'`` would be:
+
+```math
+σ'(k) = \begin{cases}
+  σ(k+1) & \text{if }σ(k-1) < m \\
+  σ(k+1) - 1 & \text{otherwise}
+\end{cases}
+```
+
+Importantly, we can see that this defines a bijection
+
+```math
+φ: S_n → \{1, \dots, n\} \times S_{n-1}
+```
+
+We will use this bijection to find a functional equation that allows us to
+determine ``F_n(q)``. By applying the bijection, we find
+
+```math
+\begin{align*}
+F_n(q)
+&= \sum_{σ\in S_n} q^{\operatorname{inv}(σ)} \\
+&= \sum_{m=1}^n \sum_{σ'\in S_{n-1}}
+q^{\operatorname{inv}(φ^{-1}(m, σ'))} \\
+\end{align*}
+```
+
+At this point, we ask: what is ``\operatorname{inv}(φ^{-1}(m, σ'))``? Can we
+find a formula for this in terms of ``\operatorname{inv}(σ')``? Indeed, we can.
+Note that, if ``σ = φ^{-1}(m, σ')``, then ``σ(1) = m``. But this is inverted
+with exactly ``m-1`` other positions. The remaining inversions of ``σ`` do not
+involve ``σ(1)``, and hence must be inversions of ``σ'``.
+
+We therefore obtain the formula
+
+```math
+\operatorname{inv}(φ^{-1}(m, σ')) = m - 1 + \operatorname{inv}(σ')
+```
+
+Substituting into our earlier work, we obtain
+
+```math
+\begin{align*}
+F_n(q)
+&= \sum_{m=1}^n \sum_{σ'\in S_{n-1}}
+q^{\operatorname{inv}(φ^{-1}(m, σ'))} \\
+&= \sum_{m=1}^n \sum_{σ'\in S_{n-1}} q^{m-1+\operatorname{inv}(σ')} \\
+&= \sum_{m=1}^n \sum_{σ'\in S_{n-1}} q^{m-1} q^{\operatorname{inv}(σ')} \\
+&= \sum_{m=1}^n q^{m-1} \sum_{σ'\in S_{n-1}} q^{\operatorname{inv}(σ')}
+\end{align*}
+```
+
+But now we recognize that the inner sum is in fact simply ``F_{n-1}(q)``!
+Hence,
+
+```math
+\begin{align*}
+F_n(q)
+&= \sum_{m=1}^n q^{m-1} F_{n-1}(q) \\
+&= F_{n-1}(q) \sum_{m=1}^n q^{m-1} \\
+&= F_{n-1}(q) \frac{1-q^n}{1-q}
+\end{align*}
+```
+
+so the functional equation we obtain is
+
+```math
+F_n(q) = \frac{1-q^n}{1-q} F_{n-1}(q)
+```
+
+which is a recurrence relation. We know the empty permutation has no
+inversions. So in the degenerate \(n = 0\) case, we simply have
+
+```math
+F_0(q) = \sum_{σ\in S_0} q^{\operatorname{inv}(σ)} = q^0 = 1
+```
+
+We now have a recurrence relation and a base case; therefore we can see that in
+general,
+
+```math
+F_n(q) = \prod_{k=1}^n \frac{1-q^k}{1-q}
+```
+
+(NB: this summary is incomplete and under construction.)

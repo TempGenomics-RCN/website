@@ -1,0 +1,72 @@
+;; setup
+(remark
+  (define related (relatedto tagmatrix tag))
+  (define subtopics (subtags tagmatrix tag))
+  (define uri (urinormalize (tagname tag))))
+
+;; document
+(h1 (remark (uppercasefirst (tagname tag))))
+
+(remark
+  (when (isfile (string "wiki/tag/" uri ".md"))
+    (include-markdown (string "../wiki/tag/" uri ".md"))))
+
+(remark
+  (when (! (isempty references))
+    `(p "Possible reference materials for this topic include"
+        ,(cons 'ul (convert list (map (∘ li render-reference) references))))))
+
+(p "There have been "
+   (remark
+    (string
+      (ItemList (filter (! isempty)
+                        (List
+                          (ItemQuantity
+                            (count iscompleted talks)
+                            "completed talk")
+                          (ItemQuantity
+                            (count (! iscompleted) talks)
+                            "scheduled talk")
+                          (ItemQuantity
+                            (length documents)
+                            "document")
+                          (ItemQuantity
+                            (length suggestions)
+                            "topic suggestion"))))))
+   " tagged with " (b (remark (tagname tag))) ".")
+
+(remarks
+  (when (> (length subtopics) 1)
+    `((p "There are many subfields of " (b (remark (tagname tag)))
+         ", including: ")
+      (ul (#:each t subtopics
+           `((li ,(tag-link t))))))))
+
+(remarks
+  (when (! (isempty related))
+    `((h2 "Related Tags")
+      (ul (#:each t related `((li ,(tag-link (ref t 1)))))))))
+
+(remarks
+  (when (! (iszero (count iscompleted talks)))
+    `((h2 "Completed Talks")
+      (#:each t (reverse (filter iscompleted talks))
+       (render-talk-brief t)))))
+
+(remarks
+  (when (! (iszero (count (! iscompleted) talks)))
+    `((h2 "Scheduled Talks")
+      (#:each t (filter (! iscompleted) talks)
+       (render-talk-brief t)))))
+
+(remarks
+  (when (! (isempty documents))
+    `((h2 "Documents")
+      (#:each t documents
+       (render-document-brief (brief t))))))
+
+(remarks
+  (when (! (isempty suggestions))
+    `((h2 ([id "suggestions"]) "Talk Suggestions")
+      (#:each s suggestions
+       (render-suggestion s)))))

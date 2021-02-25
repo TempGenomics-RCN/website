@@ -1,0 +1,23 @@
+(remark (include-markdown "../pages/faq.md"))
+
+(h2 "Did we answer your question?")
+(p "If not, please ask us! Use this form to get in contact with us.")
+
+(form ([action "https://formspree.io/atiwary@uwaterloo.ca"]
+       [method "post"])
+      (label "How can we contact you? (Email address): "
+             (input ([name "_replyto"]
+                     [type "text"]
+                     [placeholder "example@uwaterloo.ca"])))
+      (label "Leave as many additional details as you like — we’ll contact you
+              if we need anything else."
+             (textarea ([name "question"]
+                        [rows 8]
+                        [cols 2])))
+      (button ([type "submit"]) "Ask")
+      (input ([type "hidden"]
+              [name "_cc"]
+              [value "fengyang.wang.0@gmail.com"]))
+      (input ([type "hidden"]
+              [name "_next"]
+              [value "//uwseminars.com/thanks"])))

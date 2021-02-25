@@ -1,0 +1,88 @@
+[
+    {
+        "location": "MC 4045",
+        "time": ["2017-10-04T17:30:00", "2017-10-04T18:15:00"],
+        "title": "Markov Chain Monte Carlo",
+        "tags": [
+            "Monte Carlo method",
+            "applied mathematics",
+            "markov chain",
+            "markov process",
+            "numerical analysis",
+            "probability",
+            "statistics"
+        ],
+        "identifier": "jj-markov",
+        "speaker": "Jacob Jackson"
+    },
+    {
+        "location": "MC 4045",
+        "time": ["2017-10-04T18:20:00", "2017-10-04T19:05:00"],
+        "title": "A 3/2-approximation algorithm for the stable marriage problem with ties",
+        "tags": [
+            "algorithm",
+            "approximation algorithm",
+            "combinatorics",
+            "computer science",
+            "graph theory",
+            "matching",
+            "optimization",
+            "stable marriage problem"
+        ],
+        "identifier": "fb-stable",
+        "speaker": "Felix Bauckholt"
+    },
+    {
+        "location": "MC 4045",
+        "time": ["2017-10-25T17:30:00", "2017-10-25T18:15:00"],
+        "title": "Automatic sequences",
+        "tags": [
+            "automaton",
+            "computer science",
+            "number theory",
+            "theoretical computer science"
+        ],
+        "identifier": "lb-automatic",
+        "speaker": "Laindon Burnett"
+    },
+    {
+        "location": "MC 4045",
+        "time": ["2017-11-01T17:30:00", "2017-11-01T18:15:00"],
+        "title": "Constructive analysis",
+        "tags": [
+            "analysis",
+            "logic",
+            "constructive mathematics",
+            "real analysis",
+            "intuitionistic logic"
+        ],
+        "identifier": "fw-constructive",
+        "speaker": "Fengyang Wang"
+    },
+    {
+        "location": "MC 4045",
+        "time": ["2017-11-08T17:30:00", "2017-11-08T18:15:00"],
+        "title": "Social Choice Functions",
+        "tags": [
+            "applied mathematics",
+            "economics",
+            "social choice",
+            "voting theory"
+        ],
+        "identifier": "ss-social",
+        "speaker": "Sidhant Saraogi"
+    },
+    {
+        "location": "MC 4045",
+        "time": ["2017-11-29T17:30:00", "2017-11-29T18:15:00"],
+        "title": "Expander Graphs",
+        "tags": [
+            "computer science",
+            "graph theory",
+            "coding theory",
+            "theoretical computer science"
+        ],
+        "identifier": "fr-expander",
+        "speaker": "Frieda Rong"
+    }
+]

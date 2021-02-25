@@ -1,0 +1,26 @@
+;; todo: will be held on if the talk has not yet been held
+(p "This talk on "
+   (remark (title talk))
+   " was held on "
+   (remark (human (datetime talk)))
+   " in "
+   (remark (location talk))
+   ". The talk was given by "
+   (remark (ItemList (authors talk)))
+   ".")
+
+(remarks
+  (when (hasabstract talk)
+    `((h2 "Abstract")
+      ,(include-markdown (string "../" (abstractpath talk))))))
+
+(remarks
+  (when (hassummary talk)
+    `((h2 "Summary")
+      ,(include-markdown (string "../" (summarypath talk))))))
+
+(h2 "Tags")
+
+(ul
+  (#:each tag (tags talk)
+    `((li ,(tag-link tag)))))

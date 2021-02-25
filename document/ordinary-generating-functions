@@ -1,0 +1,99 @@
+## Sequences
+
+The set of natural numbers, including zero, is important in combinatorics. We
+denote it by ``\mathbf{N} \cup \{0\} = \{0, 1, 2, \ldots\}``.
+
+A **sequence** ``(a_n)_{n\ge0}`` is a function ``\mathbf{N} \cup \{0\} \to
+\mathbf{C}``. We denote by ``a_k`` the result of evaluating this function at
+natural number ``k``.
+
+An example of a sequence is the **triangular numbers** ``(T_n)_{n\ge0}``, which
+counts the number of edges in a complete graph of order ``n``. We have, for
+example, ``T_0 = 0``, ``T_1 = 1``, ``T_2 = 3``, ``T_3 = 6``, ``T_4 = 10``.
+
+A common way to describe a sequence is by an explicit **closed form**, which
+gives the function directly. For the aforementioned sequence of triangular
+numbers, there is a simple closed form:
+
+```math
+T(n) = \frac{n(n+1)}{2}
+```
+
+Sometimes, a closed form may not be easy to find or may not be feasible to
+compute, and we instead can use a **recurrence relation**. A recurrence
+relation describes, recursively, the values of the sequence. For the triangular
+numbers, we can find the following recurrence relation:
+
+```math
+T(n) = \begin{cases}
+    0 & n = 0 \\
+    T(n-1) + n & n > 0
+\end{cases}
+```
+
+A third representation of a sequence, which is often more compact and sometimes
+more computationally useful than the two mentioned here, is by analogy with a
+power series. Recall (MATH 138 / MATH 148) that a power series is a
+generalization of a polynomial, with arbitrarily large powers of the formal
+variable ``x``. In general, we may write power series as
+
+```math
+G(x) = g_0 + g_1 x + g_2 x^2 + \dots
+```
+
+or, using summation notation, as
+
+```math
+G(x) = \sum_{n\ge0} g_n x^n
+```
+
+Note, in particular, that the coefficients ``(g_n)_{n\ge0}`` form a sequence.
+We may exploit this similarity between sequences and power series to help
+describe sequences through their analogous power series. For instance, the
+triangular numbers are described by the power series
+
+```math
+T(x) = \sum_{n\ge0} T_n x^n = \sum_{n\ge0} \frac{n(n+1)}{2} x^n
+```
+
+Importantly, this power series admits a simple form:
+
+```math
+T(x) = \frac{x}{(1-x)^3}
+```
+
+It is this compact format that makes generating functions useful.
+
+## Enumeration
+
+Let ``S`` be a set. Often, we want to enumerate the elements in ``S`` based on
+some particular metrics. One common kind of metric is to assign to each element
+of ``S`` some non-negative integer. We call this kind of metric a **weight
+function**.
+
+More formally, a weight function for ``S`` is a function
+
+```math
+w: S \to \mathbf{N} \cup \{0\}
+```
+
+A common task in enumeration is to count how many objects in ``S`` have weight
+``n``; that is, to find the size of the set
+
+```math
+\{a\in S : w(a) = n\}
+```
+
+and especially to solve this problem in general for all
+``n\in\mathbf{N}\cup\{0\}``. Furthermore, it is often convenient to encode this
+information into a compact, algebraically useful form, if possible.
+
+Generating functions enable us to do this. We can encode all the information
+above as coefficients for some power series. That is, we can define
+
+```math
+G(x) = \sum_{a\in S} x^{w(a)}
+```
+
+to be the (single-variable) generating function for weight function ``w`` over
+``S``.

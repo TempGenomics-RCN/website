@@ -1,0 +1,79 @@
+(remark (include-markdown "../pages/home.md"))
+
+(remark
+  (define (talk-row t)
+    (append `((tr (td ,(title t))
+                  (td ,(ItemList (authors t)))
+                  (td ,(location t))
+                  (td ,(time-part (datetime t)))))
+            (if (hasabstract t)
+              `((tr (td ([colspan 4])
+                        (remark (include-markdown ,(string "../" (abstractpath t)))))))
+              '()))))
+
+(h2 "Upcoming Talks")
+
+(table
+  (thead
+    (tr (th "Topic") (th "Speaker") (th "Location") (th "Time")))
+  (tbody
+    (#:each d (unique (map (∘ Date (∘ DateTime datetime)) talks))
+     (if (≥ (Date d) ((.today Dates)))
+       (let ([ts (filter (λ (t) (== (Date (DateTime (datetime t))) d)) talks)])
+         (append
+           `((tr (th ([colspan 4]) "Talks on " ,(human d))))
+           (convert List (flatten (map talk-row ts)))))
+       '()))))
+
+(h2 "Recordings of Past Talks")
+(iframe ([width 560]
+         [height 315]
+         [src "https://www.youtube.com/embed/videoseries?list=PLtCFG6tYg6df18umSqyqlPFyOq3Ciqx_K"]
+         [frameborder 0]
+         [gesture "media"]
+         [allowfullscreen "allowfullscreen"]))
+
+(h2 "Search Website")
+(script "
+  (function() {
+    var cx = '000785727465403873112:isjwrocsaqo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();")
+(gcse:search)
+
+(h2 "Disclaimers")
+
+(p "The UW Student Seminars are not affiliated with the University of Waterloo. We do not
+    guarantee the accuracy of our content. Please submit any corrections or complaints to
+    the contact form at the bottom of the "
+   (a ([href "/faq/"]) "Frequently Asked Questions")
+   ". All the content on this website is Copyright © 2016–2017 UW Student Seminars, or our
+    individual speakers used with permission, and may not be reproduced in any form without
+    express permission from the copyright holder.")
+
+(h2 "Website Information")
+
+(p "Made with Remarkable using the "
+   (a ([href "https://wumss.github.io/rabbit"]) "rabbit")
+   " CSS theme.")
+
+(p "This website was last regenerated on "
+   (remark (human ((.today Dates))))
+   " by Remarkable with Julia "
+   (remark (string VERSION))
+   ".")
+
+(h2 "Social")
+
+(p (a ([href "https://www.facebook.com/groups/334849026859566/"])
+      (img ([src "/images/FB-f-Logo__blue_72.png"]
+            [alt "Facebook group"]))))
+
+(h2 "Acknowledgements")
+
+(p "Thanks to Professor David McKinnon for supporting our effort!")

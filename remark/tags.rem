@@ -1,0 +1,38 @@
+(remark (include-markdown "../pages/tags.md"))
+
+(remark
+  (define alltags (collect (tags tagmatrix)))
+  (define majortags
+    (filter (λ (t) (> ((.popularity Tags) tagmatrix t) 2)) alltags))
+  (define minortags
+    (filter (λ (t) (≤ ((.popularity Tags) tagmatrix t) 2)) alltags)))
+
+(p (label "Find a tag: "
+          (input ([type "text"]
+                  [id "selectedtag"]
+                  [list "taglist"]))
+          (datalist ([id "taglist"])
+                    (#:each t alltags
+                     `((option ([value ,(tagname t)]))))))
+   (button ([id "tagclick"]) "View tag page"))
+
+(remark
+  (define tagforest (forest tagmatrix majortags))
+  (define (tohtml (:: t (.TagTree Tags)))
+    (if (isempty (children t))
+      `(li ,(tag-link (root t)))
+      `(li ,(tag-link (root t)) ,(tohtml (children t) #f))))
+  (define (tohtml (:: ts (.TagForest Tags)) isroot)
+    (append '(ul)
+            (if isroot '(([class "collapsibleList"])) '())
+            (map tohtml (convert list ts))))
+
+  (append (tohtml tagforest #t)
+          `((li "uncategorized"
+                ,(cons 'ul
+                       (map (∘ li tag-link)
+                            (convert list minortags)))))))
+
+(script ([src "/scripts/collapse.js"]))
+(script "CollapsibleLists.apply(true);")
+(script ([src "/scripts/tagclick.js"]))
