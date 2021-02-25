@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Temporal Genomics Seminar Series"
 permalink: https://tempgenomics-rcn.github.io/website/seminar/
+---
 
 Welcome to the Temporal Genomics Seminar Series- a series of talks organized by the Temporal Genomics Working Group of the RCN-ECS.
 
