@@ -36,7 +36,7 @@ Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 ## Group Members
 
 **Eric Garcia**
-
+![ericgarcia_speaker](https://user-images.githubusercontent.com/40210956/109213373-7f48e380-777e-11eb-892e-0a5bceb58b8a.jpg)
 Personal [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
