@@ -35,10 +35,13 @@ Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 ## Group Members
 
 **Eric Garcia**
+@ericgarciaresearch [Personal Website](https://ericgarciaphd.wordpress.com/)
 
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
 
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
+
+![elBucky](https://user-images.githubusercontent.com/40210956/109210312-a7cede80-777a-11eb-8bf1-c0d82bc67779.png)
 
 I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
 @ericgarciaresearch
