@@ -43,7 +43,7 @@ Yes!!! We are also hosting a live Twitter Conference
 ## Group Members
 
 
-#### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
+##### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
@@ -58,13 +58,10 @@ I am broadly interested in finding genomic patterns across different geographic 
 
 
 ## Contact
+
 Rene Clark 
 
 
 
 
-
-## Lecture Series
-
-We will be hosting a [seminar series](https://tempgenomics-rcn.github.io/website/seminar) in 2021. Click the link for a schedule.
 
