@@ -31,7 +31,9 @@ Jun 3 | Jennifer Walsh-Elmond | Temporal genomics
 Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 
 ## Twitter Conference
+![Twitter social icons - circle - blue](https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png)
 
+Yes!!! We are also hosting a live Twitter Conference
 
 ## Group Members
 
