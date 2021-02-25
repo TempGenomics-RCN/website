@@ -1,12 +1,13 @@
-# Temporal Genomics Working Group
 
 WELCOME!!! 
+
 
 ## About
 
 Our working group was funded in 2021 by the [RCN-ECS](https://rcn-ecs.github.io/)
 to review best practices on using genetic data from multiple time points in
 ecological and evolutionary research. Thanks for checking us out!
+
 
 ## Lecture Series
 
@@ -30,15 +31,17 @@ May 20 | Nina Therkildsen | Temporal genomics
 Jun 3 | Jennifer Walsh-Elmond | Temporal genomics
 Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 
+
 ## Twitter Conference
 Yes!!! We are also hosting a live Twitter Conference
 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
 
 
+
 ## Group Members
 
-###Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
+### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
@@ -51,8 +54,10 @@ I am broadly interested in finding genomic patterns across different geographic 
 @ericgarciaresearch
 
 
+
 ## Contact
 Rene Clark 
+
 
 
 
