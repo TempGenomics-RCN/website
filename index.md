@@ -43,7 +43,7 @@ Yes!!! We are also hosting a live Twitter Conference
 ## Group Members
 
 
-### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
+#### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
