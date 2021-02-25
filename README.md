@@ -1,7 +1,6 @@
 # Temporal Genomics Seminar Series
 
-A simple static site for the temporal genomics seminar series seminar series. The site is built
-with [Remarkable](https://github.com/TotalVerb/Remarkable.jl) and is based on the UW math seminar site (https://github.com/wumss/seminar).
+A simple static site for the temporal genomics seminar series seminar series. The site is built with [Remarkable](https://github.com/TotalVerb/Remarkable.jl) and is based on the University of Waterloo math seminar site (https://github.com/wumss/seminar).
 
 Here are some tutorials on how to edit the website:
 
