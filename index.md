@@ -27,10 +27,11 @@ Date | Speaker | Topic
 March 25 | Deborah Leigh | Temporal genomics
 April 8 | Shane Campbell-Staton | Temporal genomics
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
-May 6 |  | Temporal genomics
+May 6 | TBD | Temporal genomics
 May 20 | Nina Therkildsen | Temporal genomics
-Jun 3 | Jennifer Walsh-Elmond | Temporal genomics
-Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
+Jun 3 | TBD | Temporal genomics
+Jun 17 | TBD | Temporal genomics
+Ju1 1 | TBD | Temporal genomics
 
 
 ## Twitter Conference
