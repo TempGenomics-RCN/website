@@ -31,9 +31,9 @@ Jun 3 | Jennifer Walsh-Elmond | Temporal genomics
 Jun 17 | Jennifer Walsh-Elmond | Temporal genomics
 
 ## Twitter Conference
-![Twitter social icons - circle - blue](https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png | width=100)
-<img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="30" width="50"> 
 Yes!!! We are also hosting a live Twitter Conference
+<img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
+
 
 ## Group Members
 
@@ -42,7 +42,7 @@ Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/)
 Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
 Personal [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
-<img src="https://user-images.githubusercontent.com/40210956/109213373-7f48e380-777e-11eb-892e-0a5bceb58b8a.jpg" "height="100" width="200"> 
+<img src="https://user-images.githubusercontent.com/40210956/109213373-7f48e380-777e-11eb-892e-0a5bceb58b8a.jpg" height="200" width="200"> 
 I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
 @ericgarciaresearch
 
