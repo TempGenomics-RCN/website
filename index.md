@@ -1,10 +1,7 @@
-# Temporal Genomics Seminar Series
+# Temporal Genomics Working Group
 
-Welcome to the Temporal Genomics Seminar Series- a series of talks organized by the
-Temporal Genomics Working Group of the [RCN-ECS](https://rcn-ecs.github.io/).
+Our working group was funded in 2021 by the [RCN-ECS](https://rcn-ecs.github.io/)
+to review best practices on using genetic data from multiple time points in
+ecological and evolutionary research. Thanks for checking us out!
 
-These seminars run biweekly on Thursdays from 11:00-12:00 US Eastern time. Presenters
-will showcase a diverse set of studies using genomic data from the past and present
-to investigate questions relevant to ecology and evolutionary biology. We will also 
-discuss best practices for conducting these studies and lessons learned while exploring
-this exciting new field.
+We will be hosting a [seminar series] (https://tempgenomics-rcn.github.io/website/seminar) in 2021. Click the link for a schedule.
