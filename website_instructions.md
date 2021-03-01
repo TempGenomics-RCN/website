@@ -28,3 +28,5 @@ git push --set-upstream origin gh-pages #sets /remote as the upstream branch
 7. Wait a few minutes, then refresh the page and see if a file called `_config.yml` has been created. If it has, congratulations! You have officially made a website with GitHub pages.
     * The `index.md` file contains text for the main page of your website. Edit it as you would a markdown file.
     * The `_config.yml` has the configuration settings for your website (Jekyll theme, website name, etc.).
+
+## Customizing your page
