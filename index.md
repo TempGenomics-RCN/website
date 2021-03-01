@@ -24,7 +24,7 @@ Please consider supporting our group by filling up a quick registration form [he
 
 Date | Speaker | Topic
 ---- | ------- | -----
-March 25 | Deborah Leigh | Temporal genomics
+March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six per cent loss of genetic variation in wild populations since the industrial revolution
 April 8 | Shane Campbell-Staton | Temporal genomics
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
 May 6 | TBD | Temporal genomics
