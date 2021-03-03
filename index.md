@@ -36,7 +36,12 @@ Ju1 1 | TBD | Temporal genomics
 ### Next Seminar
 
 
+
+
 <img src="https://user-images.githubusercontent.com/49986485/109852486-d1788180-7c22-11eb-80e3-9d1cc66e640e.jpg" height="100" width="100>
+
+
+
 
 
 Deborah Leigh, Swiss Federal Research Institute WSL
