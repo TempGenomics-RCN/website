@@ -33,6 +33,14 @@ Jun 3 | TBD | Temporal genomics
 Jun 17 | TBD | Temporal genomics
 Ju1 1 | TBD | Temporal genomics
 
+### Next Seminar
+
+<img src="https://user-images.githubusercontent.com/49986485/109852486-d1788180-7c22-11eb-80e3-9d1cc66e640e.jpg" height="200" width="200>
+
+Deborah Leigh, Swiss Federal Research Institute WSL
+Talk title: "Estimated six per cent loss of genetic variation in wild populations since the industrial revolution"
+Background reading: [Leigh et al. 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12810), [Paz-Vinas et al. 2021](https://www.authorea.com/users/395915/articles/509937-macrogenetic-studies-must-not-ignore-limitations-of-genetic-markers-and-scale) 
+
 
 ## Twitter Conference
 Yes!!! We are also hosting a live Twitter Conference
