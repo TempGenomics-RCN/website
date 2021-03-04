@@ -30,6 +30,30 @@ git push --set-upstream origin gh-pages #sets /remote as the upstream branch
     * The `_config.yml` has the configuration settings for your website (Jekyll theme, website name, etc.).
 
 
+## Adding multiple pages
+
+To add another page with information (using markdown files only):
+
+1. Create a new markdown file in the `gh-pages` branch. (Ex: `contact.md`)
+2. At the top of the file, add the following:
+
+```git
+---
+title: CONTACT PAGE
+template: #whatever Jekyll theme you chose for the first page (check _config.yml if you are unsure)
+filename: contact.md
+---
+```
+
+3. Link this `contact.md` page to your homepage (`index.md`):
+
+```git
+For contact information, visit [contact page](contact.md).
+```
+
+Push your changes and wait a few minutes for the website to be published (updated). Now, when you go to your GitHub pages website, you should see a link to a new page with the information in your `contact.md` file. You can also go directly to the newly created page with: `YOURGITHUBNAME.github.io/YOURREPOSITORYNAME/contact.md`.
+
+
 ## Customizing your page
 
 ### Theme
