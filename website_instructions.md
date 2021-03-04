@@ -54,7 +54,7 @@ For contact information, visit [contact page](contact.md).
 Push your changes and wait a few minutes for the website to be published (updated). Now, when you go to your GitHub pages website, you should see a link to a new page with the information in your `contact.md` file. You can also go directly to the newly created page with: `YOURGITHUBNAME.github.io/YOURREPOSITORYNAME/contact.md`.
 
 
-## Customizing your page
+## Customizing pages
 
 ### Theme
 
