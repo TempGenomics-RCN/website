@@ -63,7 +63,7 @@ Yes!!! We are also hosting a live Twitter Conference, tentatively scheduled for 
 
 ## Working Group Members
 
-**Rutgers University:** Katrina Catalano, Rene Clark, Kyra Fitz, [Brendan Reid](https://nerdbrained.wixsite.com/home), Malin Pinsky  
+**Rutgers University:** Katrina Catalano, [Rene Clark](https://www.clark-ecology.com/), Kyra Fitz, [Brendan Reid](https://nerdbrained.wixsite.com/home), Malin Pinsky  
 **Old Dominion University:** Eric Garcia, John Whalen  
 **University of Alabama:** Anthony Snead  
 **Michigan State University:** Kyle Jaynes  
