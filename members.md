@@ -11,7 +11,7 @@ Information on members of the temporal genomics working group. [TempGen Home Pag
 ### Eric Garcia
 [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
-Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
+Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/directory/people/k/kcarpent)
 
 
 
@@ -25,6 +25,6 @@ I am broadly interested in finding genomic patterns across different geographic 
 ### John Whalen
 [Git](https://github.com/whalenjc) [Website](https://ericgarciaphd.wordpress.com/)
 
-Lab Manager, PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/)
+Lab Manager, PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/directory/people/k/kcarpent)
 
 
