@@ -61,7 +61,7 @@ Headers
 ## Second level header - 2 hashtag
 ###### 6th level header
 
-Level 1-3 headers will appear as links in the left of the Leap Day layout
+Level 1-3 headers will appear as links on the left of the Leap Day layout
 ```
 Read the [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) for **MANY** more details and tips
 
@@ -80,16 +80,16 @@ Inserting images is a two-step process.
 2. Inserting link using HTML
 Place this code where you want to insert your image
    ```git
-   <img src="past_your_source_link_here">
+   <img src="paste_your_source_link_here">
    ```
    
-Change the image size
+   Change the image size
 
-The above code will insert your image with the original size. You can control the size of your image by specifying the dimentions:
-```git
-<img src="past_your_source_link_here" height="200" width="250">
-``` 
-*200X250* is the current size of the speaker's image. 
+   The above code will insert your image with the original size. You can control the size of your image by specifying the dimentions:
+   ```git
+   <img src="past_your_source_link_here" height="200" width="250">
+   ``` 
+   *200X250* is the current size of the speaker's image. 
 
-Few articles about inserting and controlling the size of images [inserting](https://ardalis.com/add-images-easily-to-github/) [size1](https://github.com/jgm/pandoc/issues/2554) [size2](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown) [size3](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
+   Few articles about inserting and controlling the size of images [inserting](https://ardalis.com/add-images-easily-to-github/) [size1](https://github.com/jgm/pandoc/issues/2554) [size2](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown) [size3](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
 
