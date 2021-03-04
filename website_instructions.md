@@ -64,7 +64,7 @@ Headers
 
 Images 
 
-It appaers that there has been some recent changes on how to insert images to a GitHub markdown file as a lot of instructions from online articles do not work anymore. The following should work for you:
+It appears that there has been some recent changes on how to insert images to a GitHub markdown file as a lot of instructions from online articles do not work anymore. The following should work for you:
 
 Inserting images is a two-step process.
 1.- Uploading your image to GitHub
