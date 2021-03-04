@@ -59,7 +59,6 @@ Yes!!! We are also hosting a live Twitter Conference, tentatively scheduled for 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
 
 
-#### Testing header links
 
 
 ## Working Group Members
