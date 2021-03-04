@@ -60,11 +60,11 @@ Yes!!! We are also hosting a live Twitter Conference
 
 ## Working Group Members
 
-**Rutgers University:** Katrina Catalano, Rene Clark, Kyra Fitz, Brendan Reid, Malin Pinsky
-**Old Dominion University:** Eric Garcia, John Whalen
-**University of Alabama:** Anthony Snead
-**Michigan State University:** Kyle Jaynes
-**UC Santa Cruz:** Allyson Salazar Sawkins
+**Rutgers University:** Katrina Catalano, Rene Clark, Kyra Fitz, Brendan Reid, Malin Pinsky  
+**Old Dominion University:** Eric Garcia, John Whalen  
+**University of Alabama:** Anthony Snead  
+**Michigan State University:** Kyle Jaynes  
+**UC Santa Cruz:** Allyson Salazar Sawkins  
 
 For more information on any of the working group members, check out our [members page](members.md)!
 
