@@ -8,8 +8,8 @@ filename: members.md
 
 Information on members of the temporal genomics working group. [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
 
-### Eric Garcia; [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
-
+## Eric Garcia
+[Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
 
 
@@ -19,4 +19,4 @@ Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter 
 I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
 
 
-### [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
+[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
