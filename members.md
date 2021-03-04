@@ -4,7 +4,7 @@ theme: jekyll-theme-leap-day
 filename: members.md
 ---
 
-Information on members of the temporal working group.
+Information on members of the temporal genomics working group.
 
 ##### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
