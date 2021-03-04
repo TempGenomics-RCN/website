@@ -34,16 +34,16 @@ git push --set-upstream origin gh-pages #sets /remote as the upstream branch
 
 ### Theme
 
-Customization starts with choosing a Jekyll theme. Currently, we are using the `Leap Day` theme which has a simple layout with all the information contained in a single page with a link menu in the left side of the page that take you to desired heading. The best part of this theme is that you only have to modify a single markdown file to update your website (other themes have separate files for pages).
+Customization starts with choosing a Jekyll theme. Currently, we are using the `Leap Day` [theme](https://github.com/pages-themes/leap-day) which has a simple layout with all the information contained in a single page with a link menu in the left side thats take you to desired heading. The best part of this theme is that you only have to modify a single markdown file to update your website. Other themes have separate files for pages and different layouts - [change theme](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser).
 
-#### Modifying the website
+### Modifying the website
 
 1. Go to the GitHub repository hosting the website and select the `gh-pages` brach from the drop-down menu.
 2. Click the `index.md` file on the left (clicking on the message in the middle of the page shows commit info but does NOT open the index file).
 3. Edit this file as you would edit a markdown document (see bellow).
 4. Commit changes. The website will automatically update after a few minutes.
 
-#### Markdown
+### Markdown
 
 There is a lot online info about the markdown format but everything you need to know to get started is already summirized by GitHub [here](https://guides.github.com/features/mastering-markdown/)
 
