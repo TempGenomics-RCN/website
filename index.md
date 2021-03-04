@@ -20,6 +20,7 @@ Everyone is welcome to join!
 
 Please consider supporting our group by filling up a quick registration form [here](google.form) (google form will be up shortly).
 
+
 ### Seminar Schedule
 
 Date | Speaker | Topic
@@ -32,6 +33,7 @@ May 20 | Nina Therkildsen | Temporal genomics
 Jun 3 | TBD | Temporal genomics
 Jun 17 | TBD | Temporal genomics
 Ju1 1 | TBD | Temporal genomics
+
 
 ### Next Seminar
 
@@ -52,10 +54,9 @@ Background reading: [Leigh et al. 2017](https://onlinelibrary.wiley.com/doi/full
 
 ## Twitter Conference
 
-Yes!!! We are also hosting a live Twitter Conference
+Yes!!! We are also hosting a live Twitter Conference, tentatively scheduled for mid-Summer 2021. Check back in late Spring 2021 for more updates!
 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
-
 
 
 ## Working Group Members
@@ -68,25 +69,8 @@ Yes!!! We are also hosting a live Twitter Conference
 
 For more information on any of the working group members, check out our [members page](members.md)!
 
-##### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
-
-Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/) 
-Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
-
-
-
-<img src="https://user-images.githubusercontent.com/40210956/109213373-7f48e380-777e-11eb-892e-0a5bceb58b8a.jpg" height="200" width="250"> 
-
-I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
-
-
-
 
 ## Contact
 
-Rene Clark 
-
-
-
-
-
+For more information on the working group, contact **Rene Clark:** rene.clark[at]rutgers.edu.  
+For more information on the virtual lecture series and/or Twitter conference, contact **Brendan Reid**.
