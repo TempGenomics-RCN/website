@@ -1,5 +1,5 @@
 ---
-title: Temporal Genomics Seminar Series
+title: SEMINAR PAGE
 layout: template
 filename: seminar.md
 ---
