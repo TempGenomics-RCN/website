@@ -1,6 +1,6 @@
 ---
 title: SEMINAR PAGE
-layout: template
+theme: jekyll-theme-leap-day
 filename: seminar.md
 ---
 
