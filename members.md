@@ -8,8 +8,9 @@ filename: members.md
 
 Information on members of the temporal genomics working group. [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
 
-## Eric Garcia
-[Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/);
+### Eric Garcia
+[Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
+
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/)
 
 
