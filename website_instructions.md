@@ -34,7 +34,7 @@ git push --set-upstream origin gh-pages #sets /remote as the upstream branch
 
 ### Theme
 
-Customization starts with choosing a Jekyll theme. Currently, we are using the `Leap Day` [theme](https://github.com/pages-themes/leap-day) which has a simple layout with all the information contained in a single page with a link menu in the left side thats take you to desired heading. The best part of this theme is that you only have to modify a single markdown file to update your website. Other themes have separate files for pages and different layouts - [change theme](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser).
+Customization starts with choosing a Jekyll theme. Currently, we are using the `Leap Day` [theme](https://github.com/pages-themes/leap-day) which has a simple layout with all the information contained in a single page with a link menu on the left side that takes you to desired heading. The best part of this theme is that you only have to modify a single markdown file to update your website. Other themes have different layouts - [change theme](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser).
 
 ### Modifying the website
 
@@ -78,6 +78,7 @@ Inserting images is a two-step process.
    * Copy the generated source link and cancel the issue by exiting the current page (for instance, clicking back to the repository page) 
    
 2. Inserting link using HTML
+Place this code where you want to insert your image
    ```git
    <img src="past_your_source_link_here">
    ```
