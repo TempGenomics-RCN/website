@@ -1,3 +1,0 @@
-(script ([type "text/x-mathjax-config"])
-        (remark (include-text "mathjax.js")))
-(script ([src "https://cdn.mathjax.org/mathjax/latest/MathJax.js"]))
