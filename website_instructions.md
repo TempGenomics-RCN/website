@@ -45,7 +45,7 @@ Customization starts with choosing a Jekyll theme. Currently, we are using the `
 
 ### Markdown
 
-There is a lot online info about the markdown format but everything you need to know to get started is already summirized by GitHub.
+There is a lot online info about the markdown format (like how to include [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion) :upside_down_face:) but everything you need to know to get started is already summirized by GitHub.
 
 The basics
 
@@ -64,6 +64,7 @@ Headers
 Level 1-3 headers will appear as links on the left of the Leap Day layout
 ```
 Read the [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) for **MANY** more details and tips
+
 
 
 
