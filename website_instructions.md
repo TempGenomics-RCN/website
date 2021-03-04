@@ -66,7 +66,8 @@ Level 1-3 headers will appear as links on the left of the Leap Day layout
 Read the [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) for **MANY** more details and tips
 
 
-#### Images 
+
+### Images 
 
 There are different ways to insert pictures into a GitHub markdown file. It appears that there have been some recent changes in GitHub as the instructions from some online articles do not work anymore. The following should work for you:
 
