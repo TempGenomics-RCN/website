@@ -14,7 +14,7 @@ ecological and evolutionary research. Thanks for checking us out!
 
 We will be hosting a series of seminars on various topics relevant to temporal genomics given by prominent and early-career scientists in the field.
 
-These seminars run biweekly on Thursdays from 11:00-12:00 US Eastern time. Presenters will showcase a diverse set of studies using genomic data from the past and present to investigate questions relevant to ecology and evolutionary biology. We will also discuss best practices for conducting these studies and lessons learned while exploring this exciting new field.
+These seminars run biweekly on Thursdays from 11:00-12:00 US Eastern time. Presenters will showcase a diverse set of studies using genomic data from the past and present to investigate questions relevant to ecology and evolutionary biology. We will also discuss best practices for conducting these studies and lessons learned while exploring this exciting new field. Go to [seminar page](seminar.md)
 
 Everyone is welcome to join! 
 
