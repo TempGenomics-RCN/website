@@ -45,24 +45,28 @@ Customization starts with choosing a Jekyll theme. Currently, we are using the `
 
 ### Markdown
 
-There is a lot online info about the markdown format but everything you need to know to get started is already summirized by GitHub [here](https://guides.github.com/features/mastering-markdown/)
+There is a lot online info about the markdown format but everything you need to know to get started is already summirized by GitHub.
 
-Mainly:
+The basics
 
 ```git
 Text:
-**bold** - wrap word with two stars
-*italic* - wrap word with one star
-* Bullet point - a single star at the begging of line
-   * - indent a single start for a sub-bullet point 
+**bold** , wrap word with two stars
+*italic* , wrap word with one star
+* Bullet point , a single star at the begging of line
+   * sub-bullet point , indent once a single start
 
 Headers
 # First level header - 1 hashtag
-## Second level header - 3 hashtag
+## Second level header - 2 hashtag
 ###### 6th level header
-```
 
-Images 
+Level 1-3 headers will appear as links in the left
+```
+Read the [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/) for **MANY** more details and tips
+
+
+#### Images 
 
 There are different ways to insert pictures into a GitHub markdown file. It appears that there have been some recent changes in GitHub as the instructions from some online articles do not work anymore. The following should work for you:
 
@@ -86,16 +90,7 @@ The above code will insert your image with the original size. You can control th
 
 
    
- Text:
-**bold** - wrap word with two stars
-*italic* - wrap word with one star
-* Bullet point - a single star at the begging of line
-   * - indent a single start for a sub-bullet point 
-
-Headers
-# First level header - 1 hashtag
-## Second level header - 3 hashtag
-###### 6th level header
+ 
    
  
    
