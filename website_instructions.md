@@ -38,14 +38,14 @@ Customization starts with choosing a Jekyll theme. Currently, we are using the `
 
 #### Modifying the website
 
-1. Go to the GitHub repository hosting the website and select the `gh-pages` from the brach drop-down menu.
+1. Go to the GitHub repository hosting the website and select the `gh-pages` brach from the drop-down menu.
 2. Click the `index.md` file on the left (clicking on the message in the middle of the page shows commit info but does NOT open the index file).
-3. Edit this file as you would edit a markdown document
+3. Edit this file as you would edit a markdown document (see bellow).
 4. Commit changes. The website will automatically update after a few minutes.
 
 #### Markdown
 
-There is a lot info online about the markdown format but everything you need to know to to get started is already summirized by GitHub [here](https://guides.github.com/features/mastering-markdown/)
+There is a lot online info about the markdown format but everything you need to know to get started is already summirized by GitHub [here](https://guides.github.com/features/mastering-markdown/)
 
 Mainly:
 
@@ -53,7 +53,7 @@ Mainly:
 Text:
 **bold** - wrap word with two stars
 *italic* - wrap word with one star
-* Bullet pont - a single star at the begging of line
+* Bullet point - a single star at the begging of line
    * - indent a single start for a sub-bullet point 
 
 Headers
@@ -64,10 +64,42 @@ Headers
 
 Images 
 
-It appears that there has been some recent changes on how to insert images to a GitHub markdown file as a lot of instructions from online articles do not work anymore. The following should work for you:
+There are different ways to insert pictures into a GitHub markdown file. It appears that there have been some recent changes in GitHub as the instructions from some online articles do not work anymore. The following should work for you:
 
 Inserting images is a two-step process.
-1.- Uploading your image to GitHub
+
+1. Uploading your image into GitHub to generate a source link
+   * Start a new issue in your repository page (click `issues` and then click `New issue`)
+   * Copy and paste or drag pictures from your local computer into the `Write` window. This will generate the code you will enter in the markdown file.
+   * Copy the generated source link and cancel the issue by exiting the current page (for instance, clicking back to the repository page) 
+   
+2. Inserting link using HTML
+   ```<img src="past_your_source_link_here">
+   ```
+   
+Change the image size
+
+The above code will insert your image with the original size. You can control the size of your image by specifying the dimentions:
+```<img src="past_your_source_link_here" height="200" width="250">
+``` 
+*200X250* is the current size of the speaker's image
+
+
+   
+ Text:
+**bold** - wrap word with two stars
+*italic* - wrap word with one star
+* Bullet point - a single star at the begging of line
+   * - indent a single start for a sub-bullet point 
+
+Headers
+# First level header - 1 hashtag
+## Second level header - 3 hashtag
+###### 6th level header
+   
+ 
+   
+   
 
 5. 
 6. The website will automatically update after a few minutes of committing changes in GitHub
