@@ -21,3 +21,10 @@ I am broadly interested in finding genomic patterns across different geographic 
 
 
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
+
+### John Whalen
+[Git](https://github.com/whalenjc) [Website](https://ericgarciaphd.wordpress.com/)
+
+Lab Manager, PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/)
+
+
