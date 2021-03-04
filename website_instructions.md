@@ -29,27 +29,46 @@ git push --set-upstream origin gh-pages #sets /remote as the upstream branch
     * The `index.md` file contains text for the main page of your website. Edit it as you would a markdown file.
     * The `_config.yml` has the configuration settings for your website (Jekyll theme, website name, etc.).
 
-## Adding multiple pages
-
-To add another page with information (using markdown files only):
-
-1. Create a new markdown file in the `gh-pages` branch. (Ex: `contact.md`)
-2. At the top of the file, add the following:
-
-```git
----
-title: CONTACT PAGE
-template: whatever Jekyll theme you chose for the first page (check _config.yml if you are unsure)
-filename: contact.md
----
-```
-
-3. Link this `contact.md` page to your homepage (`index.md`):
-
-```git
-For contact information, visit [contact page](contact.md).
-```
-
-Push your changes and wait a few minutes for the website to be published (updated). Now, when you go to your GitHub pages website, you should see a link to a new page with information in your `contact.md` file. You can also go directly to the newly created page with: `YOURGITHUBNAME.github.io/YOURREPONAME/contact.md`.
 
 ## Customizing your page
+
+### Theme
+
+Customization starts with choosing a Jekyll theme. Currently, we are using the `Leap Day` theme which has a simple layout with all the information contained in a single page with a link menu in the left side of the page that take you to desired heading. The best part of this theme is that you only have to modify a single markdown file to update your website (other themes have separate files for pages).
+
+#### Modifying the website
+
+1. Go to the GitHub repository hosting the website and select the `gh-pages` from the brach drop-down menu.
+2. Click the `index.md` file on the left (clicking on the message in the middle of the page shows commit info but does NOT open the index file).
+3. Edit this file as you would edit a markdown document
+4. Commit changes. The website will automatically update after a few minutes.
+
+#### Markdown
+
+There is a lot info online about the markdown format but everything you need to know to to get started is already summirized by GitHub [here](https://guides.github.com/features/mastering-markdown/)
+
+Mainly:
+
+```git
+Text:
+**bold** - wrap word with two stars
+*italic* - wrap word with one star
+* Bullet pont - a single star at the begging of line
+   * - indent a single start for a sub-bullet point 
+
+Headers
+# First level header - 1 hashtag
+## Second level header - 3 hashtag
+###### 6th level header
+```
+
+Images 
+
+It appaers that there has been some recent changes on how to insert images to a GitHub markdown file as a lot of instructions from online articles do not work anymore. The following should work for you:
+
+Inserting images is a two-step process.
+1.- Uploading your image to GitHub
+
+5. 
+6. The website will automatically update after a few minutes of committing changes in GitHub
+
