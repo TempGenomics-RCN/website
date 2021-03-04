@@ -51,6 +51,7 @@ Background reading: [Leigh et al. 2017](https://onlinelibrary.wiley.com/doi/full
 
 
 ## Twitter Conference
+
 Yes!!! We are also hosting a live Twitter Conference
 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
@@ -59,6 +60,13 @@ Yes!!! We are also hosting a live Twitter Conference
 
 ## Working Group Members
 
+**Rutgers University:** Katrina Catalano, Rene Clark, Kyra Fitz, Brendan Reid, Malin Pinsky
+**Old Dominion University:** Eric Garcia, John Whalen
+**University of Alabama:** Anthony Snead
+**Michigan State University:** Kyle Jaynes
+**UC Santa Cruz:** Allyson Salazar Sawkins
+
+For more information on any of the working group members, check out our [members page](members.md)!
 
 ##### Eric Garcia [Git](https://github.com/ericgarciaresearch) [Website](https://ericgarciaphd.wordpress.com/)
 
