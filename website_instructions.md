@@ -45,7 +45,7 @@ Customization starts with choosing a Jekyll theme. Currently, we are using the `
 
 ### Markdown
 
-There is a lot online info about the markdown format (like how to include [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion) :upside_down_face:) but everything you need to know to get started is already summirized by GitHub.
+There is a lot online info about the markdown format (like how to include [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion) :wink: ) but everything you need to know to get started is already summirized by GitHub.
 
 The basics
 
