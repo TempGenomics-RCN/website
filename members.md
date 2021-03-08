@@ -19,12 +19,19 @@ Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter 
 
 I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
 
-
-[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
-
 ### John Whalen
 [Git](https://github.com/whalenjc) [Website](https://ericgarciaphd.wordpress.com/)
 
 Lab Manager, PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter Lab - [Old Dominion University](https://www.odu.edu/directory/people/k/kcarpent)
+
+### Anthony Snead
+[Git](https://github.com/anthonysnead) [Website](https://anthony-snead.com/)
+
+PhD Candidate - [Earley Lab](https://rlearley.people.ua.edu/) - [University of Alabama](https://bsc.ua.edu/)
+
+I am motivated by the question rather than the method. I employ methodologies from a wide range of fields and disciplines, including quantitative ecology, oceanography, biogeography, environmental DNA, and population genetics, to understand (i) how abiotic factors impact species distributions, (ii) the relative impact of biotic versus abiotic factors on local abundance, and (iii) how environmental factors between habitat patches impact connectivity. I currently explore these questions using _Kryptolebias marmoratus_, a small self-fertilizing hermaphroditic fish that inhabits New World mangrove forests.
+
+[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
+
 
 
