@@ -65,7 +65,7 @@ Yes!!! We are also hosting a live Twitter Conference, tentatively scheduled for 
 
 **Rutgers University:** Katrina Catalano, [Rene Clark](https://www.clark-ecology.com/), Kyra Fitz, [Brendan Reid](https://nerdbrained.wixsite.com/home), Malin Pinsky  
 **Old Dominion University:** [Eric Garcia](https://ericgarciaphd.wordpress.com/), John Whalen  
-**University of Alabama:** Anthony Snead  
+**University of Alabama:** [Anthony Snead](https://anthony-snead.com/) 
 **Michigan State University:** Kyle Jaynes  
 **UC Santa Cruz:** Allyson Salazar Sawkins  
 
