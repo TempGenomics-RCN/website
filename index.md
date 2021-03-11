@@ -14,11 +14,11 @@ ecological and evolutionary research. Thanks for checking us out!
 
 We will be hosting a series of seminars on various topics relevant to temporal genomics given by prominent and early-career scientists in the field.
 
-These seminars run biweekly on Thursdays from 11:00-12:00 US Eastern time. Presenters will showcase a diverse set of studies using genomic data from the past and present to investigate questions relevant to ecology and evolutionary biology. We will also discuss best practices for conducting these studies and lessons learned while exploring this exciting new field.
+These seminars run biweekly, usually on Thursdays from 11:00-12:00 US Eastern time. Presenters will showcase a diverse set of studies using genomic data from the past and present to investigate questions relevant to ecology and evolutionary biology. We will also discuss best practices for conducting these studies and lessons learned while exploring this exciting new field.
 
 Everyone is welcome to join! 
 
-Please consider supporting our group by filling up a quick registration form [here](google.form) (google form will be up shortly).
+To receive the Zoom link, please fill out the registration form [here](https://rutgers.zoom.us/meeting/register/tJMpfuqqrTgtGtIm4ZAK-zogU1PQzmF78C-L).
 
 
 ### Seminar Schedule
@@ -31,8 +31,8 @@ April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learni
 May 6 | TBD | Temporal genomics
 May 20 | Nina Therkildsen | Temporal genomics
 Jun 3 | TBD | Temporal genomics
-Jun 17 | TBD | Temporal genomics
-Ju1 1 | TBD | Temporal genomics
+Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data. *Note that this is a Friday seminar!*
+Ju1 1 | Jennifer Walsh-Emond | Roundtable: emerging topics in temporal genomics
 
 
 ### Next Seminar
