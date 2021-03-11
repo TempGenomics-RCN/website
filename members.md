@@ -17,7 +17,7 @@ Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Carpenter 
 
 <img src="https://user-images.githubusercontent.com/40210956/109213373-7f48e380-777e-11eb-892e-0a5bceb58b8a.jpg" height="200" width="250"> 
 
-I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines
+I am broadly interested in finding genomic patterns across different geographic and time scales, and using this knowledge to better understand (1) how organisms adapt to their environment and (2) what are the factors that affect biodiversity in nature. Part of my current work is describing the anthropogenic effect on the genetic diversity of fish populations over more than 100 years of overfishing and habitat degradation in the Philippines.
 
 ### John Whalen
 [Git](https://github.com/whalenjc) [Website](https://ericgarciaphd.wordpress.com/)
@@ -33,5 +33,9 @@ I am motivated by the question rather than the method. I employ methodologies fr
 
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
 
+### Brendan Reid
+[Git](https://github.com/nerdbrained) [Website](https://nerdbrained.wixsite.com/home)
 
+Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab - [Rutgers University](https://pinsky.marine.rutgers.edu/)
 
+I am interested in how genomics and evolutionary theory can inform ecology, conservation biology, and biodiversity management. My current work at Rutgers focuses on quantifying community-level patterns of genetic change in Philippine fish and evaluating methods for detecting recent population declines using temporal genomic data. In other ongoing and past work I have explored evolutionary potential in freshwater fish and patterns of genetic diversity in freshwater and marine turtles.
