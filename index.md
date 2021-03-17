@@ -18,7 +18,7 @@ These seminars run biweekly, usually on Thursdays from 11:00-12:00 US Eastern ti
 
 Everyone is welcome to join! 
 
-To receive the Zoom link, please fill out the registration form [here](https://rutgers.zoom.us/meeting/register/tJMpfuqqrTgtGtIm4ZAK-zogU1PQzmF78C-L).
+To receive the Zoom link, please fill out the registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSdIf-jWqJbajpKC-c_i0t6Rtjd8l2dmfAT0MYHsWIsTiLDDfg/viewform).
 
 
 ### Seminar Schedule
