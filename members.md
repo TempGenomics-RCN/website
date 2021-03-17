@@ -39,3 +39,10 @@ I am motivated by the question rather than the method. I employ methodologies fr
 Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab - [Rutgers University](https://pinsky.marine.rutgers.edu/)
 
 I am interested in how genomics and evolutionary theory can inform ecology, conservation biology, and biodiversity management. My current work at Rutgers focuses on quantifying community-level patterns of genetic change in Philippine fish and evaluating methods for detecting recent population declines using temporal genomic data. In other ongoing and past work I have explored evolutionary potential in freshwater fish and patterns of genetic diversity in freshwater and marine turtles.
+
+### Rene Clark
+[Git](https://github.com/rclark848) [Website](https://www.clark-ecology.com/)
+
+PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab - [Rutgers University](https://pinsky.marine.rutgers.edu/)
+
+I am currently a PhD candidate in Ecology & Evolution at Rutgers University, where my research interests include molecular ecology and marine conservation. Most of my ongoing work involves using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
