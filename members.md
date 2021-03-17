@@ -31,8 +31,6 @@ PhD Candidate - [Earley Lab](https://rlearley.people.ua.edu/) - [University of A
 
 I am motivated by the question rather than the method. I employ methodologies from a wide range of fields and disciplines, including quantitative ecology, oceanography, biogeography, environmental DNA, and population genetics, to understand (i) how abiotic factors impact species distributions, (ii) the relative impact of biotic versus abiotic factors on local abundance, and (iii) how environmental factors between habitat patches impact connectivity. I currently explore these questions using _Kryptolebias marmoratus_, a small self-fertilizing hermaphroditic fish that inhabits New World mangrove forests.
 
-[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
-
 ### Brendan Reid
 [Git](https://github.com/nerdbrained) [Website](https://nerdbrained.wixsite.com/home)
 
@@ -46,3 +44,5 @@ I am interested in how genomics and evolutionary theory can inform ecology, cons
 PhD Student - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab - [Rutgers University](https://pinsky.marine.rutgers.edu/)
 
 I am currently a PhD candidate in Ecology & Evolution at Rutgers University, where my research interests include molecular ecology and marine conservation. Most of my ongoing work involves using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
+
+[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
