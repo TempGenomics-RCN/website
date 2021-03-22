@@ -29,8 +29,8 @@ March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six pe
 April 8 | Shane Campbell-Staton | Temporal genomics
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
 May 6 | TBD | Temporal genomics
-May 20 | Nina Therkildsen | Temporal genomics
-Jun 3 | TBD | Temporal genomics
+May 20 | TBD | Temporal genomics
+Jun 3 | Nina Therkildsen | Temporal genomics
 Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data. *Note that this is a Friday seminar!*
 Ju1 1 | Jennifer Walsh-Emond | Roundtable: emerging topics in temporal genomics
 
