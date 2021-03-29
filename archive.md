@@ -1,3 +1,9 @@
+---
+title: ARCHIVE
+theme: jekyll-theme-leap-day
+filename: archive.md
+---
+
 ### Past Seminars
 
 Past seminars in the series are available on our Youtube channel and embedded here!
