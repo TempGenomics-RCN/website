@@ -39,10 +39,7 @@ Ju1 1 | Jennifer Walsh-Emond | Roundtable: emerging topics in temporal genomics
 
 
 
-<img src="https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg" height="200" width="250"> 
-![hh_shane_campbell-32](https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg" height="300" width="200"> 
 
 
 
