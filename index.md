@@ -26,7 +26,7 @@ To receive the Zoom link, please fill out the registration form [here](https://d
 Date | Speaker | Topic
 ---- | ------- | -----
 March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six per cent loss of genetic variation in wild populations since the industrial revolution
-April 8 | Shane Campbell-Staton | Temporal genomics
+April 8 | Shane Campbell-Staton | Temporal Genomics and Biological Response to Anthropogenic Change
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
 May 6 | TBD | Temporal genomics
 May 20 | David Jacobs | Temporal genomics
@@ -39,17 +39,24 @@ Ju1 1 | Jennifer Walsh-Emond | Roundtable: emerging topics in temporal genomics
 
 
 
-<img src="https://user-images.githubusercontent.com/49986485/109852486-d1788180-7c22-11eb-80e3-9d1cc66e640e.jpg" height="200" width="250"> 
+<img src="https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg" height="200" width="250"> 
+![hh_shane_campbell-32](https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg)
 
 
 
 
 
-Deborah Leigh, Swiss Federal Research Institute WSL
 
-Talk title: "Estimated six per cent loss of genetic variation in wild populations since the industrial revolution"
+Shane Campbell-Staton, UCLA
 
-Background reading: [Leigh et al. 2017](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.12810), [Paz-Vinas et al. 2021](https://www.authorea.com/users/395915/articles/509937-macrogenetic-studies-must-not-ignore-limitations-of-genetic-markers-and-scale) 
+Talk title: "Temporal Genomics and Biological Response to Anthropogenic Change"
+
+
+
+### Past Seminars
+
+Past seminars are available to watch on our [archive page](archive.md).
+
 
 
 ## Twitter Conference
