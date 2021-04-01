@@ -28,11 +28,11 @@ Date | Speaker | Topic
 March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six per cent loss of genetic variation in wild populations since the industrial revolution
 April 8 | Shane Campbell-Staton | Temporal Genomics and Biological Response to Anthropogenic Change
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
-May 6 | TBD | Temporal genomics
-May 20 | David Jacobs | Temporal genomics
-Jun 3 | Nina Therkildsen | Temporal genomics
+May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers
+May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Temporal genomics
+Jun 3 | [Nina Therkildsen](https://www.therkildsenlab.com/) | Temporal genomics
 Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data. *Note that this is a Friday seminar!*
-Ju1 1 | Jennifer Walsh-Emond | Roundtable: emerging topics in temporal genomics
+Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics
 
 
 ### Next Seminar
