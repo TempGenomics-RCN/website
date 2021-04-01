@@ -45,4 +45,10 @@ PhD Candidate - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pins
 
 I am currently a PhD candidate in Ecology & Evolution at Rutgers University, where my research interests include molecular ecology and marine conservation. Most of my ongoing work involves using population genomics tools and techniques to assess how marine populations are changing through both space and time, with emphasis on how we as humans are driving such processes around the globe. I am particularly interested in questions of adaptation and selection, as well as assessing the adaptive potential of tropical fish species.
 
+### Allyson Salazar Sawkins
+
+PhD Student - [Bernardi Lab](https://bernardi.eeb.ucsc.edu/)
+
+I am an NSF Graduate Research Fellow and PhD student in Ecology and Evolutionary Biology at UC Santa Cruz. I am interested in applications of molecular ecology on fisheries management. My research interests include population genomics, local adaptation, and historical demography of marine bony fishes, especially those which experience intense fisheries pressure.
+
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
