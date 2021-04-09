@@ -23,31 +23,30 @@ To receive the Zoom link, please fill out the registration form [here](https://d
 
 ### Seminar Schedule
 
-Date | Speaker | Topic
+Date | Seminar Leader | Topic
 ---- | ------- | -----
 March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six per cent loss of genetic variation in wild populations since the industrial revolution
 April 8 | Shane Campbell-Staton | Temporal Genomics and Biological Response to Anthropogenic Change
 April 22 | [Evelyn Jensen](eljensen.ca) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
-May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers
+May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers (featuring Hernan Villegas, Allie Byrne, and Sarah Gignoux-Wolfsohn)
 May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Temporal genomics
 Jun 3 | [Nina Therkildsen](https://www.therkildsenlab.com/) | Temporal genomics
-Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data. *Note that this is a Friday seminar!*
-Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics
+Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
+Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics (featuring David Diez-del-Molino, Lindsey Fenderson, and Alice Manuzzi)
 
 
 ### Next Seminar
 
 
 
-<img src="https://user-images.githubusercontent.com/49986485/112841375-63cb4400-906e-11eb-8a80-c039e7c8541a.jpg" height="300" width="200"> 
+<img src="https://user-images.githubusercontent.com/49986485/114183288-85031e80-9911-11eb-8d1c-85da725d955b.JPG" height="400" width="267"> 
 
 
 
 
-Shane Campbell-Staton, UCLA
+Evelyn Jensen, Newcastle University
 
-Talk title: "Temporal Genomics and Biological Response to Anthropogenic Change"
-
+Talk title: "Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises"
 
 
 ### Past Seminars
