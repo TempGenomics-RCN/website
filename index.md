@@ -28,7 +28,7 @@ Date | Seminar Leader | Topic
 March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six per cent loss of genetic variation in wild populations since the industrial revolution
 April 8 | Shane Campbell-Staton | Temporal Genomics and Biological Response to Anthropogenic Change
 April 22 | [Evelyn Jensen](http://www.eljensen.ca/) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
-May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers (featuring Hernan Villegas, Sarah Gignoux-Wolfsohn, and one speaker TBA)
+May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers (featuring Hernán E. Morales, Sarah Gignoux-Wolfsohn, and one speaker TBA)
 May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Temporal genomics
 Jun 3 | [Nina Therkildsen](https://www.therkildsenlab.com/) | Temporal genomics
 Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
