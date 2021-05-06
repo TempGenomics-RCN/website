@@ -67,7 +67,7 @@ For more information on the Twitter conference, visit our [conference page](conf
 
 ## Working Group Members
 
-**Rutgers University:** Katrina Catalano, [Rene Clark](https://www.clark-ecology.com/), Kyra Fitz, [Brendan Reid](https://nerdbrained.wixsite.com/home), [Malin Pinsky](https://pinsky.marine.rutgers.edu/)  
+**Rutgers University:** Katrina Catalano, [René Clark](https://www.clark-ecology.com/), Kyra Fitz, [Brendan Reid](https://nerdbrained.wixsite.com/home), [Malin Pinsky](https://pinsky.marine.rutgers.edu/)  
 **Old Dominion University:** [Eric Garcia](https://ericgarciaphd.wordpress.com/), John Whalen  
 **University of Alabama:** [Anthony Snead](https://anthony-snead.com/)  
 **Michigan State University:** Kyle Jaynes  
@@ -78,5 +78,5 @@ For more information on any of the working group members, check out our [members
 
 ## Contact
 
-For more information on the working group or Twitter conference, contact **Rene Clark:** rene.clark[at]rutgers.edu.  
+For more information on the working group or Twitter conference, contact **René Clark:** rene.clark[at]rutgers.edu.  
 For more information on the virtual lecture series, contact **Brendan Reid:** br450[at]rutgers.edu.
