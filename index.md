@@ -78,5 +78,5 @@ For more information on any of the working group members, check out our [members
 
 ## Contact
 
-For more information on the working group, contact **Rene Clark:** rene.clark[at]rutgers.edu.  
-For more information on the virtual lecture series and/or Twitter conference, contact **Brendan Reid:** br450[at]rutgers.edu.
+For more information on the working group or Twitter conference, contact **Rene Clark:** rene.clark[at]rutgers.edu.  
+For more information on the virtual lecture series, contact **Brendan Reid:** br450[at]rutgers.edu.
