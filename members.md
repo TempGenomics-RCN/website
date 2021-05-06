@@ -38,7 +38,7 @@ Postdoc - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab
 
 I am interested in how genomics and evolutionary theory can inform ecology, conservation biology, and biodiversity management. My current work at Rutgers focuses on quantifying community-level patterns of genetic change in Philippine fish and evaluating methods for detecting recent population declines using temporal genomic data. In other ongoing and past work I have explored evolutionary potential in freshwater fish and patterns of genetic diversity in freshwater and marine turtles.
 
-### Rene Clark
+### René Clark
 [Git](https://github.com/rclark848) [Website](https://www.clark-ecology.com/)
 
 PhD Candidate - [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/); Pinsky Lab - [Rutgers University](https://pinsky.marine.rutgers.edu/)
