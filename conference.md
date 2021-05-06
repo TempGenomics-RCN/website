@@ -18,12 +18,12 @@ Presented by the Temporal Genomics Working Group, as part of the [Research Coord
 
 Members of the RCN for Evolution in Changing Seas and the ecology & evolution community at large are invited to participate in a Twitter conference during the first full week in July 2021. This Twitter conference is aimed specifically at researchers interested in, or currently utilizing, temporal genomics methods and practices. 
 
-This Twitter conference will provide: 
+**This Twitter conference will provide:** 
 * An opportunity for scientists (particularly those early in their career) to share their work with a broader community in an informal setting.
 * An opportunity for presenters and attendees to network and interact with the public and other researchers.
 * Increased visibility for the field of temporal genomics.
 
-Presentation style: 
+**Presentation style:** 
 * Participants in the Temporal Genomics Twitter Conference are invited to condense their current research into a ~5-7 tweet thread (1,400-1,960 characters).
 * Each presenter will be given thirty minutes (15 minutes for presentation tweets and a 15 minute "live" Q&A session).
 
