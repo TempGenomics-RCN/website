@@ -31,4 +31,6 @@ Members of the RCN for Evolution in Changing Seas and the ecology & evolution co
 
 Unsure what a Twitter conference is? Intrigued, but uncertain of how to present? Check out [this guide](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/) from the #ASEH2018 Twitter conference for more information on the general structure and types of presentations, or tweets, involved. 
 
-If you have questions about the Temporal Genomics Twitter Conference, pleaase contact René Clark: rene.clark[at]rutgers.edu (@rene_delight on Twitter).
+If you have questions about the Temporal Genomics Twitter Conference, pleaase contact **René Clark**: rene.clark[at]rutgers.edu (@rene_delight on Twitter). 
+
+[TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
