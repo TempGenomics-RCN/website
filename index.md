@@ -38,15 +38,7 @@ Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emergin
 ### Next Seminar
 
 
-
-<img src="https://user-images.githubusercontent.com/49986485/114183288-85031e80-9911-11eb-8d1c-85da725d955b.JPG" height="400" width="267"> 
-
-
-
-
-Evelyn Jensen, Newcastle University
-
-Talk title: "Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises"
+Early career roundtable: Joe McGirr, Venkat Talla, Hernan Morales, + Sarah Gignoux-Wolfsohn! 
 
 
 ### Past Seminars
