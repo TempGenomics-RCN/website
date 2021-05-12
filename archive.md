@@ -20,5 +20,8 @@ Past seminars in the series are available on our Youtube channel and embedded he
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a9fDi7NoAhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### May 6th: Early career roundtable featuring Dr. Joe McGirr, Dr. Venkat Talla, Dr. Hernan Morales, + Dr. Sarah Gignoux-Wolfsohn!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_tdf147IzB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
