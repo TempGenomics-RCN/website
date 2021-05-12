@@ -38,7 +38,7 @@ Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emergin
 ### Next Seminar
 
 
-Early career roundtable: Joe McGirr, Venkat Talla, Hernan Morales, + Sarah Gignoux-Wolfsohn! 
+David Jacobs, UCLA
 
 
 ### Past Seminars
