@@ -29,7 +29,7 @@ March 25 | [Deborah Leigh](https://deborahmleigh.weebly.com/) | Estimated six pe
 April 8 | Shane Campbell-Staton | Temporal Genomics and Biological Response to Anthropogenic Change
 April 22 | [Evelyn Jensen](http://www.eljensen.ca/) | Temporal Tortoises: What we are learning from historical specimens of Galapagos giant tortoises
 May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers (featuring Hernán E. Morales, Sarah Gignoux-Wolfsohn, and Venkat Talla)
-May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Temporal genomics
+May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Putting Observations from Ancient DNA and Coastal Genetic Studies in context - Anthropogenic Extinctions of Ducks and Rivers and Coastal Connectivity Controlled by Glaciers and Rainfall Events
 Jun 3 | [Nina Therkildsen](https://www.therkildsenlab.com/) | Temporal genomics
 Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
 Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics (featuring David Diez-del-Molino, Lindsey Fenderson, and Alice Manuzzi)
@@ -38,7 +38,9 @@ Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emergin
 ### Next Seminar
 
 
-David Jacobs, UCLA
+Dr. David Jacobs, UCLA
+
+<img src="https://user-images.githubusercontent.com/40210956/118543255-0aa09800-b722-11eb-8360-53294c85f5f6.png" height="250" width="200"> 
 
 
 ### Past Seminars
