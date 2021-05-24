@@ -38,9 +38,9 @@ Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emergin
 ### Next Seminar
 
 
-Dr. David Jacobs, UCLA
+Dr. Nina Therkildsen, Cornell University
 
-<img src="https://user-images.githubusercontent.com/40210956/118543255-0aa09800-b722-11eb-8360-53294c85f5f6.png" height="250" width="200"> 
+<img src="https://user-images.githubusercontent.com/49986485/119410695-41912380-bcb7-11eb-9c30-0a3522215a63.jpeg" height="300" width="200"> 
 
 
 ### Past Seminars
