@@ -40,7 +40,7 @@ Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emergin
 
 Dr. Nina Therkildsen, Cornell University
 
-<img src="https://user-images.githubusercontent.com/49986485/119410695-41912380-bcb7-11eb-9c30-0a3522215a63.jpeg" height="300" width="200"> 
+<img src="https://user-images.githubusercontent.com/49986485/119410695-41912380-bcb7-11eb-9c30-0a3522215a63.jpeg" height="301" width="295"> 
 
 
 ### Past Seminars
