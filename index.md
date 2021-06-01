@@ -51,7 +51,7 @@ Past seminars are available to watch on our [archive page](archive.md).
 
 ## Twitter Conference
 
-Yes!!! We are also hosting a live Twitter Conference from **July 7-9, 2021**. The call for abstracts is now OPEN and will remain open until **June 7, 2021**. To participate in the conference, please submit an abstract via this [google form](https://forms.gle/HNe6ziQMbfTYAMYDA). 
+Yes!!! We are also hosting a live Twitter Conference from **July 7-9, 2021**. The call for abstracts is now OPEN and will remain open until **June 14, 2021**. To participate in the conference, please submit an abstract via this [google form](https://forms.gle/HNe6ziQMbfTYAMYDA). 
 For more information on the Twitter conference, visit our [conference page](conference.md).
 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
