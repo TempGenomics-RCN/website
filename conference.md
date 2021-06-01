@@ -10,7 +10,7 @@ filename: conference.md
 
 Call for Participants 
 
-**Abstract Deadline: Monday, June 7, 2021 (11:59 PM Eastern Time)** 
+**Abstract Deadline: Monday, June 14, 2021 (11:59 PM Eastern Time)** 
 
 **Twitter Conference Dates: July 7-9, 2021** 
 
