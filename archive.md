@@ -40,4 +40,11 @@ Past seminars in the series are available on our Youtube channel and embedded he
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vX07mhegsOc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+***
+
+## June 3rd - Dr. Nina Therkildsen
+#### "Looking across space to interpret fisheries-induced genomic changes over time" 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MeHp0gftn0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
