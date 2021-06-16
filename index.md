@@ -31,7 +31,7 @@ April 22 | [Evelyn Jensen](http://www.eljensen.ca/) | Temporal Tortoises: What w
 May 6 | [Joseph McGirr](https://joemcgirr.github.io/research/) | Roundtable: early-career researchers (featuring Hernán E. Morales, Sarah Gignoux-Wolfsohn, and Venkat Talla)
 May 20 | [David Jacobs](https://jacobslab.weebly.com/) | Putting Observations from Ancient DNA and Coastal Genetic Studies in context - Anthropogenic Extinctions of Ducks and Rivers and Coastal Connectivity Controlled by Glaciers and Rainfall Events
 Jun 3 | [Nina Therkildsen](https://www.therkildsenlab.com/) | Looking across space to interpret fisheries-induced genomic changes over time
-Jun *18* | Joel Alves | Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
+Jun *18* | [Joel Alves](https://www.arch.ox.ac.uk/people/alves-joel) | Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
 Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics (featuring David Diez-del-Molino, Lindsey Fenderson, and Alice Manuzzi)
 
 
