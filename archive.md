@@ -47,4 +47,11 @@ Past seminars in the series are available on our Youtube channel and embedded he
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MeHp0gftn0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+***
+
+## June 3rd - Roundtable featuring Dr. Joel Alves, Dr. Alison Feder, Dr. Bastiaan Star, + Dr. Evan Irving-Pease! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UW5_86oesQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
