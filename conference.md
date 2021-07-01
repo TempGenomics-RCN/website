@@ -4,15 +4,11 @@ theme: jekyll-theme-leap-day
 filename: conference.md
 ---
 
-# Temporal Genomics Twitter Conference 
+# Temporal Genomics Twitter Symposium 
 
 #TempGen2021Tweets 
 
-Call for Participants 
-
-**Abstract Deadline: Monday, June 14, 2021 (11:59 PM Eastern Time)** 
-
-**Twitter Conference Dates: July 7-9, 2021** 
+**Twitter Symposium Date: July 8, 2021 10 AM - 2 PM EDT** 
 
 Presented by the Temporal Genomics Working Group, as part of the [Research Coordinated Network for Evolution in Changing Seas](https://rcn-ecs.github.io/). 
 
@@ -27,10 +23,8 @@ Members of the RCN for Evolution in Changing Seas and the ecology & evolution co
 * Participants in the Temporal Genomics Twitter Conference are invited to condense their current research into a ~5-7 tweet thread (1,400-1,960 characters).
 * Each presenter will be given thirty minutes (15 minutes for presentation tweets and a 15 minute "live" Q&A session).
 
-**If you are interested in presenting, please use this [Google Form](https://forms.gle/GPgAayoWPtYSvNa89) to submit your presentation title, a 200-word abstract, and other accompanying information.** 
+Unsure what a Twitter conference is? Check out [this guide](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/) from the #ASEH2018 Twitter conference for more information on the general structure and types of presentations, or tweets, involved. 
 
-Unsure what a Twitter conference is? Intrigued, but uncertain of how to present? Check out [this guide](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/) from the #ASEH2018 Twitter conference for more information on the general structure and types of presentations, or tweets, involved. 
-
-If you have questions about the Temporal Genomics Twitter Conference, pleaase contact **René Clark:** rene.clark[at]rutgers.edu (@rene_delight on Twitter), or **John Whalen:** jwhal002[at]odu.edu (@WhaleTalez on Twitter). 
+If you have questions about the Temporal Genomics Twitter Conference, please contact **René Clark:** rene.clark[at]rutgers.edu (@rene_delight on Twitter), or **John Whalen:** jwhal002[at]odu.edu (@WhaleTalez on Twitter). 
 
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
