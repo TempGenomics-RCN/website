@@ -36,4 +36,6 @@ Unsure what a Twitter symposium (or conference) is? Check out [this guide](https
 
 If you have questions about the Temporal Genomics Twitter Symposium, please contact **René Clark:** rene.clark[at]rutgers.edu (@rene_delight on Twitter), or **John Whalen:** jwhal002[at]odu.edu (@WhaleTalez on Twitter). 
 
+*Parts of this page are based largely on the wonderful advice and guidance of the [Beyond 150 Twitter conference](https://beyond150ca.wordpress.com/presenters-guide/) and [#ASEH2018Tweets](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/). A large thank you to Andrea Eidinger, Krista McCracken, and Jessica M. DeWitt for putting those together!* 
+
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
