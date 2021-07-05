@@ -10,6 +10,8 @@ filename: conference.md
 
 **Twitter Symposium Date: July 8, 2021 9 AM - 2 PM EDT** 
 
+**Schedule of presenters to be posted here July 7, 2021**
+
 Presented by the Temporal Genomics Working Group, as part of the [Research Coordinated Network for Evolution in Changing Seas](https://rcn-ecs.github.io/). 
 
 Members of the RCN for Evolution in Changing Seas and the ecology & evolution community at large are invited to participate in a Twitter symposium during the first full week in July 2021. This Twitter symposium  is aimed specifically at researchers interested in, or currently utilizing, temporal genomics methods and practices. 
@@ -30,7 +32,7 @@ Members of the RCN for Evolution in Changing Seas and the ecology & evolution co
 * The first tweet in the thread **must** contain the symposium hashtag: **#TempGen2021Tweets** as well as the title of your presentation.
 * Participants should remain available on Twitter for an additional 15 minutes after their presentation, to answer any questions or comments.
 
-**Schedule of presenters will be posted here prior to the symposium!**
+The symposium will be moderated by the RCN for Evolution in Changing Sea's Twitter account (**@EvolvingSeas**). To catch all the action, be sure to follow the RCN Twitter account and/or the symposium hashtag (**#TempGen2021Tweets**). @EvolvingSeas will tweet out the symposium schedule, introduce each presenter at the time of their presentation, and retweet the first tweet in each presentation thread.
 
 Unsure what a Twitter symposium (or conference) is? Check out [this guide](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/) from the #ASEH2018 Twitter conference for more information on the general structure and types of presentations, or tweets, involved. 
 
