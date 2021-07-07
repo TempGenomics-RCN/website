@@ -35,12 +35,6 @@ Jun *18* | [Joel Alves](https://www.arch.ox.ac.uk/people/alves-joel) | Roundtabl
 Ju1 1 | [Jennifer Walsh-Emond](http://jenniferlwalsh.com/) | Roundtable: emerging topics in temporal genomics (featuring David Diez-del-Molino, Lindsey Fenderson, and Alice Manuzzi)
 
 
-### Next Seminar
-
-
-Roundtable: detecting selection with temporal data (featuring Alison Feder, Evan Irving-Pease, and Bastiaan Star) *Note that this is a Friday seminar!*
-
-
 ### Past Seminars
 
 Past seminars are available to watch on our [archive page](archive.md).
@@ -49,7 +43,7 @@ Past seminars are available to watch on our [archive page](archive.md).
 
 ## Twitter Symposium
 
-Yes!!! We are also hosting a live Twitter Symposium on **July 8, 2021**. The call for abstracts has closed but please get in touch with us if you still want to present! To participate in the symposium, please submit an abstract via this [google form](https://forms.gle/HNe6ziQMbfTYAMYDA). 
+Yes!!! We are also hosting a live Twitter Symposium on **July 8, 2021**. 
 For more information on the Twitter symposium, visit our [symposium page](conference.md).
 
 <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
