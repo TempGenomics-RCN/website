@@ -8,9 +8,20 @@ filename: conference.md
 
 #TempGen2021Tweets 
 
-**Twitter Symposium Date: July 8, 2021 9 AM - 2 PM EDT** 
+**Twitter Symposium Date: July 8, 2021 9:30 AM - 1:30 PM EDT** 
 
-**Schedule of presenters to be posted here July 7, 2021**
+### Symposium Schedule
+
+Time Slot (EDT) | Presenter | Twitter Handle | Talk Title
+---- | ------- | ----- | -----
+9:30-10:00 | [Jason Bertram](https://jasonbertram.github.io/) | @jason__bertram | Allele frequency divergence reveals ubiquitous influence of positive selection in *Drosophila*
+10:00-10:30 | [Rebekah Oomen](https://rebekahoomen.weebly.com/) | @rebekahoomen | Resolving mechanisms maintaining distinct Atlantic cod ecotypes in a hybrid zone using a multi-generational experiment
+10:30-11:00 | [Paige Byerly](https://pabyerly.wixsite.com/site) | @paigebyerly | Museum genomics provide evidence for long-term genetic differentiation between breeding populations of a highly mobile seabird in the Western Atlantic
+11:00-11:30 | [Brendan Reid](https://nerdbrained.wixsite.com/home) | @emydoid | Detecting recent demographic declines from temporal data: Insights from simulations
+11:30-12:00 | Alice Manuzzi | @AliceManuzzi | Temporal genomics suggests the disappearance of a tiger shark population off south-eastern Australia
+12:00-12:30 | Christine Ewers | @ewers_saucedo | The ghost of oysters past - genomic insights into extinct oyster diversity
+12:30-1:00 | Nicolas Lou | @NicolasLou10 | Batch effects in population genomic studies with low-coverage whole genome sequencing data: Their causes, detection, and mitigation
+1:00-1:30 | [Eric Garcia](https://ericgarciaphd.wordpress.com/) | @EGarciaResearch | Effectiveness of reduced representation sequencing on century-old, ethanol-preserved museum fishes
 
 Presented by the Temporal Genomics Working Group, as part of the [Research Coordinated Network for Evolution in Changing Seas](https://rcn-ecs.github.io/). 
 
@@ -32,7 +43,7 @@ Members of the RCN for Evolution in Changing Seas and the ecology & evolution co
 * The first tweet in the thread **must** contain the symposium hashtag: **#TempGen2021Tweets** as well as the title of your presentation.
 * Participants should remain available on Twitter for an additional 15 minutes after their presentation, to answer any questions or comments.
 
-The symposium will be moderated by the RCN for Evolution in Changing Sea's Twitter account (**@EvolvingSeas**). To catch all the action, be sure to follow the RCN Twitter account and/or the symposium hashtag (**#TempGen2021Tweets**). @EvolvingSeas will tweet out the symposium schedule, introduce each presenter at the time of their presentation, and retweet the first tweet in each presentation thread.
+The symposium will be moderated by the RCN for Evolution in Changing Sea's Twitter account (**@evolvingseas**). To catch all the action, be sure to follow the RCN Twitter account and/or the symposium hashtag (**#TempGen2021Tweets**). @evolvingseas will tweet out the symposium schedule, introduce each presenter at the time of their presentation, and retweet the first tweet in each presentation thread.
 
 Unsure what a Twitter symposium (or conference) is? Check out [this guide](https://jessicamdewitt.com/2018/02/12/aseh2018tweets-presenters-guide/) from the #ASEH2018 Twitter conference for more information on the general structure and types of presentations, or tweets, involved. 
 
