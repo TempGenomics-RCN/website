@@ -14,14 +14,14 @@ filename: conference.md
 
 Time (EDT) | Presenter | Twitter Handle | Talk Title
 ---- | ------- | ----- | -----
-9:30-10:00 | [Jason Bertram](https://jasonbertram.github.io/) | @jason__bertram(https://twitter.com/jason__bertram)(https://twitter.com/jason__bertram) | Allele frequency divergence reveals ubiquitous influence of positive selection in *Drosophila*
-10:00-10:30 | [Rebekah Oomen](https://rebekahoomen.weebly.com/) | @rebekahoomen(https://twitter.com/rebekahoomen) | Resolving mechanisms maintaining distinct Atlantic cod ecotypes in a hybrid zone using a multi-generational experiment
-10:30-11:00 | [Paige Byerly](https://pabyerly.wixsite.com/site) | @paigebyerly(https://twitter.com/paigebyerly) | Museum genomics provide evidence for long-term genetic differentiation between breeding populations of a highly mobile seabird in the Western Atlantic
-11:00-11:30 | [Brendan Reid](https://nerdbrained.wixsite.com/home) | @emydoid(https://twitter.com/emydoid) | Detecting recent demographic declines from temporal data: Insights from simulations
-11:30-12:00 | Alice Manuzzi | @AliceManuzzi(https://twitter.com/AliceManuzzi) | Temporal genomics suggests the disappearance of a tiger shark population off south-eastern Australia
-12:00-12:30 | Christine Ewers | @ewers_saucedo(https://twitter.com/ewers_saucedo) | The ghost of oysters past - genomic insights into extinct oyster diversity
-12:30-1:00 | Nicolas Lou | @NicolasLou10 | Batch effects in population genomic studies with low-coverage whole genome sequencing data: Their causes, detection, and mitigation
-1:00-1:30 | [Eric Garcia](https://ericgarciaphd.wordpress.com/) | @EGarciaResearch(https://twitter.com/EGarciaResearch) | Effectiveness of reduced representation sequencing on century-old, ethanol-preserved museum fishes
+9:30-10:00 | [Jason Bertram](https://jasonbertram.github.io/) | [@jason__bertram](https://twitter.com/jason__bertram) | Allele frequency divergence reveals ubiquitous influence of positive selection in *Drosophila*
+10:00-10:30 | [Rebekah Oomen](https://rebekahoomen.weebly.com/) | [@rebekahoomen](https://twitter.com/rebekahoomen) | Resolving mechanisms maintaining distinct Atlantic cod ecotypes in a hybrid zone using a multi-generational experiment
+10:30-11:00 | [Paige Byerly](https://pabyerly.wixsite.com/site) | [@paigebyerly](https://twitter.com/paigebyerly) | Museum genomics provide evidence for long-term genetic differentiation between breeding populations of a highly mobile seabird in the Western Atlantic
+11:00-11:30 | [Brendan Reid](https://nerdbrained.wixsite.com/home) | [@emydoid](https://twitter.com/emydoid) | Detecting recent demographic declines from temporal data: Insights from simulations
+11:30-12:00 | Alice Manuzzi | [@AliceManuzzi](https://twitter.com/AliceManuzzi) | Temporal genomics suggests the disappearance of a tiger shark population off south-eastern Australia
+12:00-12:30 | Christine Ewers | [@ewers_saucedo](https://twitter.com/ewers_saucedo) | The ghost of oysters past - genomic insights into extinct oyster diversity
+12:30-1:00 | Nicolas Lou | [@NicolasLou10](https://twitter.com/NicolasLou10) | Batch effects in population genomic studies with low-coverage whole genome sequencing data: Their causes, detection, and mitigation
+1:00-1:30 | [Eric Garcia](https://ericgarciaphd.wordpress.com/) | [@EGarciaResearch](https://twitter.com/EGarciaResearch) | Effectiveness of reduced representation sequencing on century-old, ethanol-preserved museum fishes
 
 Presented by the Temporal Genomics Working Group, as part of the [Research Coordinated Network for Evolution in Changing Seas](https://rcn-ecs.github.io/). 
 
