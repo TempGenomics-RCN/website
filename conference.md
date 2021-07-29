@@ -6,7 +6,7 @@ filename: conference.md
 
 # Temporal Genomics Twitter Symposium 
 
-[#TempGen2021Tweets](https://twitter.com/search?q=%23tempgen2021tweets&src=recent_search_click&f=live) 
+[**#TempGen2021Tweets**](https://twitter.com/search?q=%23tempgen2021tweets&src=recent_search_click&f=live) 
 
 [<img src="https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG" height="330" width="300">](https://twitter.com/rebekahoomen/status/1413136259342426114)[<img src="https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG" height="330" width="300">](https://twitter.com/paigebyerly/status/1413143334969774088)
 
