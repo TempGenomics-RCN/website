@@ -41,13 +41,10 @@ Past seminars are available to watch on our [archive page](archive.md).
 
 
 
-## Twitter Symposium
+## Twitter Symposium <img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="50" width="50"> 
 
-Yes!!! We are also hosting a live Twitter Symposium on **July 8, 2021**. 
+We hosted a live Twitter Symposium on **July 8, 2021**. 
 For more information on the Twitter symposium, visit our [symposium page](conference.md).
-
-<img src="https://user-images.githubusercontent.com/40210956/109213643-d6e74f00-777e-11eb-801a-37afb832700b.png" height="100" width="100"> 
-
 
 
 
