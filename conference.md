@@ -8,13 +8,13 @@ filename: conference.md
 
 [#TempGen2021Tweets](https://twitter.com/search?q=%23tempgen2021tweets&src=recent_search_click&f=live) 
 
-[<img src="https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG" width="500">](https://twitter.com/rebekahoomen/status/1413136259342426114)[<img src="https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG" width="500">](https://twitter.com/paigebyerly/status/1413143334969774088)
+[<img src="https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG" height="500" width="500">](https://twitter.com/rebekahoomen/status/1413136259342426114)[<img src="https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG" height="500" width="500">](https://twitter.com/paigebyerly/status/1413143334969774088)
 
-[<img src="https://user-images.githubusercontent.com/42753073/127556463-5ca7e3ee-e79b-417a-9c8f-6769a0ebf96a.JPG" width="500">](https://twitter.com/emydoid/status/1413150955449823232)[<img src="https://user-images.githubusercontent.com/42753073/127556537-63ecccfc-99be-4c83-bd86-757b9c0042ed.JPG" width="500">](https://twitter.com/jason__bertram/status/1413128236301787138)
+[<img src="https://user-images.githubusercontent.com/42753073/127556463-5ca7e3ee-e79b-417a-9c8f-6769a0ebf96a.JPG" height="190" width="500">](https://twitter.com/emydoid/status/1413150955449823232)[<img src="https://user-images.githubusercontent.com/42753073/127556537-63ecccfc-99be-4c83-bd86-757b9c0042ed.JPG" height="190" width="500">](https://twitter.com/jason__bertram/status/1413128236301787138)
 
-[<img src="https://user-images.githubusercontent.com/42753073/127551472-42c45e50-e7c6-4a69-9e16-bd7b31662ef3.JPG" width="500">](https://twitter.com/AliceManuzzi/status/1413158914603036681)[<img src="https://user-images.githubusercontent.com/42753073/127551894-33572d91-4b08-4ec8-bd74-c3f5d42e0acf.JPG" width="500">](https://twitter.com/ewers_saucedo/status/1413166193721188355)
+[<img src="https://user-images.githubusercontent.com/42753073/127551472-42c45e50-e7c6-4a69-9e16-bd7b31662ef3.JPG" height="500" width="500">](https://twitter.com/AliceManuzzi/status/1413158914603036681)[<img src="https://user-images.githubusercontent.com/42753073/127551894-33572d91-4b08-4ec8-bd74-c3f5d42e0acf.JPG" height="500" width="500">](https://twitter.com/ewers_saucedo/status/1413166193721188355)
 
-[<img src="https://user-images.githubusercontent.com/42753073/127551925-df8750f4-ee18-4595-9c32-4bd324b9b1a2.JPG" width="500">](https://twitter.com/EGarciaResearch/status/1413181472702357507)
+[<img src="https://user-images.githubusercontent.com/42753073/127551925-df8750f4-ee18-4595-9c32-4bd324b9b1a2.JPG" height="500" width="500">](https://twitter.com/EGarciaResearch/status/1413181472702357507)
 
 **Twitter Symposium Date: July 8, 2021 9:30 AM - 1:30 PM EDT** 
 
