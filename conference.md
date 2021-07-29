@@ -8,9 +8,7 @@ filename: conference.md
 
 [#TempGen2021Tweets](https://twitter.com/search?q=%23tempgen2021tweets&src=recent_search_click&f=live) 
 
-[<img src="https://user-images.githubusercontent.com/42753073/127556537-63ecccfc-99be-4c83-bd86-757b9c0042ed.JPG" width="500">](https://twitter.com/jason__bertram/status/1413128236301787138)     
-     
-[<img src="https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG" width="500">](https://twitter.com/rebekahoomen/status/1413136259342426114)
+[<img src="https://user-images.githubusercontent.com/42753073/127556537-63ecccfc-99be-4c83-bd86-757b9c0042ed.JPG" width="500">](https://twitter.com/jason__bertram/status/1413128236301787138)[<img src="https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG" width="500">](https://twitter.com/rebekahoomen/status/1413136259342426114)
 
 [<img src="https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG" width="500">](https://twitter.com/paigebyerly/status/1413143334969774088)
 
