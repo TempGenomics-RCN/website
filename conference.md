@@ -8,12 +8,18 @@ filename: conference.md
 
 #TempGen2021Tweets 
 
-![JasonBertram1](https://user-images.githubusercontent.com/42753073/127551960-528491e2-c5c6-4866-ac40-59bfd23ca294.JPG)
+[![JasonBertram1](https://user-images.githubusercontent.com/42753073/127551960-528491e2-c5c6-4866-ac40-59bfd23ca294.JPG)](https://twitter.com/jason__bertram/status/1413128236301787138![image](https://user-images.githubusercontent.com/42753073/127553573-6df46604-2640-4477-a21e-5f7ff6fbf0ff.png)
+
 ![RebekahOomen1](https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG)
+
 ![PaigeByerly1](https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG)
+
 ![BrendanReid1](https://user-images.githubusercontent.com/42753073/127551852-7c93c06e-fa3d-4cae-bef9-217718e5f7c4.JPG)
+
 ![AliceManuzzi1](https://user-images.githubusercontent.com/42753073/127551472-42c45e50-e7c6-4a69-9e16-bd7b31662ef3.JPG)
+
 ![ChristineEwers1](https://user-images.githubusercontent.com/42753073/127551894-33572d91-4b08-4ec8-bd74-c3f5d42e0acf.JPG)
+
 ![EricGarcia1](https://user-images.githubusercontent.com/42753073/127551925-df8750f4-ee18-4595-9c32-4bd324b9b1a2.JPG)
 
 **Twitter Symposium Date: July 8, 2021 9:30 AM - 1:30 PM EDT** 
