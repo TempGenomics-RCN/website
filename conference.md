@@ -6,7 +6,7 @@ filename: conference.md
 
 # Temporal Genomics Twitter Symposium 
 
-#TempGen2021Tweets 
+[#TempGen2021Tweets](https://twitter.com/search?q=%23tempgen2021tweets&src=recent_search_click&f=live) 
 
 [<img src="https://user-images.githubusercontent.com/42753073/127556537-63ecccfc-99be-4c83-bd86-757b9c0042ed.JPG" width="500">](https://twitter.com/jason__bertram/status/1413128236301787138)     
      
