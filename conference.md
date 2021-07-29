@@ -8,8 +8,10 @@ filename: conference.md
 
 #TempGen2021Tweets 
 
-[![JasonBertram1](https://user-images.githubusercontent.com/42753073/127551960-528491e2-c5c6-4866-ac40-59bfd23ca294.JPG)] height="24" width="48"(https://twitter.com/jason__bertram/status/1413128236301787138)
+[<img src="https://user-images.githubusercontent.com/42753073/127551960-528491e2-c5c6-4866-ac40-59bfd23ca294.JPG"](https://twitter.com/jason__bertram/status/1413128236301787138)
 
+[![JasonBertram1](https://user-images.githubusercontent.com/42753073/127551960-528491e2-c5c6-4866-ac40-59bfd23ca294.JPG)](https://twitter.com/jason__bertram/status/1413128236301787138)     
+     
 [![RebekahOomen1](https://user-images.githubusercontent.com/42753073/127552051-2cceeedb-4516-4878-95a7-a65f8318190e.JPG)](https://twitter.com/rebekahoomen/status/1413136259342426114)
 
 [![PaigeByerly1](https://user-images.githubusercontent.com/42753073/127552016-32fc375e-69c2-4644-89f8-348b8e6ee707.JPG)](https://twitter.com/paigebyerly/status/1413143334969774088)
