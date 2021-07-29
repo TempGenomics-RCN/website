@@ -14,7 +14,7 @@ filename: conference.md
 
 Time (EDT) | Presenter | Twitter Handle | Talk Title
 ---- | ------- | ----- | -----
-9:30-10:00 | [Jason Bertram](https://jasonbertram.github.io/) | @jason__bertram(https://twitter.com/jason__bertram) | Allele frequency divergence reveals ubiquitous influence of positive selection in *Drosophila*
+9:30-10:00 | [Jason Bertram](https://jasonbertram.github.io/) | @jason__bertram(https://twitter.com/jason__bertram)(https://twitter.com/jason__bertram) | Allele frequency divergence reveals ubiquitous influence of positive selection in *Drosophila*
 10:00-10:30 | [Rebekah Oomen](https://rebekahoomen.weebly.com/) | @rebekahoomen(https://twitter.com/rebekahoomen) | Resolving mechanisms maintaining distinct Atlantic cod ecotypes in a hybrid zone using a multi-generational experiment
 10:30-11:00 | [Paige Byerly](https://pabyerly.wixsite.com/site) | @paigebyerly(https://twitter.com/paigebyerly) | Museum genomics provide evidence for long-term genetic differentiation between breeding populations of a highly mobile seabird in the Western Atlantic
 11:00-11:30 | [Brendan Reid](https://nerdbrained.wixsite.com/home) | @emydoid(https://twitter.com/emydoid) | Detecting recent demographic declines from temporal data: Insights from simulations
