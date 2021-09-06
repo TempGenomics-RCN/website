@@ -55,7 +55,7 @@ Past seminars in the series are available on our Youtube channel and embedded he
 
 ***
 
-## July 18th - Roundtable featuring Dr. Jennifer Walsh-Emond, Dr. Lindsey Fenderson, & Dr. David Díez del Molino! 
+## July 1st - Roundtable featuring Dr. Jennifer Walsh-Emond, Dr. Lindsey Fenderson, & Dr. David Díez del Molino! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DW0nVIkseMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
