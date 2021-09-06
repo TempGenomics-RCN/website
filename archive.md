@@ -53,5 +53,11 @@ Past seminars in the series are available on our Youtube channel and embedded he
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UW5_86oesQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+***
+
+## July 18th - Roundtable featuring Dr. Jennifer Walsh-Emond, Dr. Lindsey Fenderson, & Dr. David Díez del Molino! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DW0nVIkseMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 [TempGen Home Page](https://tempgenomics-rcn.github.io/website/)
